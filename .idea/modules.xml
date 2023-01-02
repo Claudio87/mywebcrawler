@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mywebcrawler.iml" filepath="$PROJECT_DIR$/mywebcrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mywebcrawler-core/mywebcrawler-core.iml" filepath="$PROJECT_DIR$/mywebcrawler-core/mywebcrawler-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mywebcrawler-lemmatizator/mywebcrawler-lemmatizator.iml" filepath="$PROJECT_DIR$/mywebcrawler-lemmatizator/mywebcrawler-lemmatizator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mywebcrawler-web/mywebcrawler-web.iml" filepath="$PROJECT_DIR$/mywebcrawler-web/mywebcrawler-web.iml" />
+    </modules>
+  </component>
+</project>

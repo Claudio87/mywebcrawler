@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mywebcrawler-core" />
+        <module name="mywebcrawler-lemmatizator" />
+        <module name="mywebcrawler-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mywebcrawler" target="17" />
+      <module name="mywebcrawler-core" target="17" />
+      <module name="mywebcrawler-lemmatizator" target="17" />
+      <module name="mywebcrawler-web" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mywebcrawler-core" options="-parameters" />
+      <module name="mywebcrawler-lemmatizator" options="-parameters" />
+      <module name="mywebcrawler-web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b247ac7-a27c-4cd6-84cd-45052fe5e5f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_SQLAndHibernate/Hib/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_SQLAndHibernate/Hib/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/Deadlock/Deadlock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Deadlock/Deadlock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/Deadlock/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Deadlock/src/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/ForkJoinPoolExp/src/main/java/MySiteMapBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/ImageResizer/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/Transactions/src/main/java/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Transactions/src/main/java/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/BookLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/BookLibrary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/model/SimpleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/model/SimpleTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jm0vOgASng3tkKar4s3TcxmWnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\disci\Desktop\SkillBox_Rep\java_b\FirstProject\mywebcrawler" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyWebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWebCrawler" />
+      <module name="mywebcrawler-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyWebCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b247ac7-a27c-4cd6-84cd-45052fe5e5f1" name="Changes" comment="" />
+      <created>1672668182308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672668182308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

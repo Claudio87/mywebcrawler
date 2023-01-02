@@ -1,0 +1,4 @@
+# Project exclude paths
+/mywebcrawler-core/target/
+/mywebcrawler-lemmatizator/target/
+/mywebcrawler-web/target/

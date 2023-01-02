@@ -1,0 +1,783 @@
+<html lang="ru-RU">
+ <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="pingback" href="https://dombulgakova.ru/xmlrpc.php">
+  <script type="text/javascript">
+document.documentElement.className = 'js';
+</script>
+  <script>var et_site_url='https://dombulgakova.ru';var et_post_id='4510';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>
+  <script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"ajaxUrl":"https:\/\/dombulgakova.ru\/wp-admin\/admin-ajax.php","sys":[]};var divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return i[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script> <!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>Ночная экскурсия "Дьявол в Москве" - Булгаковский Дом</title>
+  <meta name="description" content="Ночная экскурсия &quot;Дьявол в Москве&quot;">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://dombulgakova.ru/diyavol/">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Ночная экскурсия &quot;Дьявол в Москве&quot; - Булгаковский Дом">
+  <meta property="og:description" content="Ночная экскурсия &quot;Дьявол в Москве&quot;">
+  <meta property="og:url" content="https://dombulgakova.ru/diyavol/">
+  <meta property="og:site_name" content="Булгаковский Дом">
+  <meta property="article:publisher" content="https://web.facebook.com/Bulgakov.House.Theater">
+  <meta property="article:modified_time" content="2022-01-26T13:07:27+00:00">
+  <meta property="og:image" content="https://dombulgakova.ru/wp-content/uploads/2020/04/mabylgakovfotopredostavlenomyzeem-e1585768582622.jpeg">
+  <meta property="og:image:width" content="1597">
+  <meta property="og:image:height" content="1661">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:label1" content="Написано автором">
+  <meta name="twitter:data1" content="Alex777">
+  <meta name="twitter:label2" content="Примерное время для чтения">
+  <meta name="twitter:data2" content="4 минуты">
+  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://dombulgakova.ru/#organization","name":"\u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0414\u043e\u043c","url":"https://dombulgakova.ru/","sameAs":["https://web.facebook.com/Bulgakov.House.Theater","https://www.instagram.com/dombulgakova/","https://www.youtube.com/channel/UCds7HxBjNg_ht7_5uMKHsiA"],"logo":{"@type":"ImageObject","@id":"https://dombulgakova.ru/#logo","inLanguage":"ru-RU","url":"https://dombulgakova.ru/wp-content/uploads/2020/04/mabylgakovfotopredostavlenomyzeem-e1585768582622.jpeg","width":1597,"height":1661,"caption":"\u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0414\u043e\u043c"},"image":{"@id":"https://dombulgakova.ru/#logo"}},{"@type":"WebSite","@id":"https://dombulgakova.ru/#website","url":"https://dombulgakova.ru/","name":"\u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0414\u043e\u043c","description":"\u0422\u0435\u0430\u0442\u0440 . \u041c\u0443\u0437\u0435\u0439 . \u042d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u0438","publisher":{"@id":"https://dombulgakova.ru/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://dombulgakova.ru/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://dombulgakova.ru/diyavol/#webpage","url":"https://dombulgakova.ru/diyavol/","name":"\u041d\u043e\u0447\u043d\u0430\u044f \u044d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u044f \"\u0414\u044c\u044f\u0432\u043e\u043b \u0432 \u041c\u043e\u0441\u043a\u0432\u0435\" - \u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0414\u043e\u043c","isPartOf":{"@id":"https://dombulgakova.ru/#website"},"datePublished":"2020-02-20T12:22:41+00:00","dateModified":"2022-01-26T13:07:27+00:00","description":"\u041d\u043e\u0447\u043d\u0430\u044f \u044d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u044f \"\u0414\u044c\u044f\u0432\u043e\u043b \u0432 \u041c\u043e\u0441\u043a\u0432\u0435\"","inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://dombulgakova.ru/diyavol/"]}]}]}</script> <!-- / Yoast SEO plugin. -->
+  <link rel="dns-prefetch" href="//dombulgakova.edinoepole.ru">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"> <!-- This site uses the Google Analytics by ExactMetrics plugin v6.3.0 - Using Analytics tracking - https://www.exactmetrics.com/ --> <!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. --> <!-- No UA code set --> <!-- / Google Analytics by ExactMetrics --> <!-- This site uses the Google Analytics by MonsterInsights plugin v7.13.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+  <script type="text/javascript" data-cfasync="false">
+(window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+var mi_version         = '7.13.0';
+var mi_track_user      = true;
+var mi_no_track_reason = '';
+var disableStr = 'ga-disable-UA-143983595-1';
+/* Function to detect opted out users */
+function __gaTrackerIsOptedOut() {
+return document.cookie.indexOf(disableStr + '=true') > -1;
+}
+/* Disable tracking if the opt-out cookie exists. */
+if ( __gaTrackerIsOptedOut() ) {
+window[disableStr] = true;
+}
+/* Opt-out function */
+function __gaTrackerOptout() {
+document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[disableStr] = true;
+}
+if ( 'undefined' === typeof gaOptout ) {
+function gaOptout() {
+__gaTrackerOptout();
+}
+}
+if ( mi_track_user ) {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+__gaTracker('create', 'UA-143983595-1', 'auto');
+__gaTracker('set', 'forceSSL', true);
+__gaTracker('require', 'displayfeatures');
+__gaTracker('require', 'linkid', 'linkid.js');
+__gaTracker('send','pageview');
+} else {
+console.log( "" );
+(function() {
+/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+var noopfn = function() {
+return null;
+};
+var noopnullfn = function() {
+return null;
+};
+var Tracker = function() {
+return null;
+};
+var p = Tracker.prototype;
+p.get = noopfn;
+p.set = noopfn;
+p.send = noopfn;
+var __gaTracker = function() {
+var len = arguments.length;
+if ( len === 0 ) {
+return;
+}
+var f = arguments[len-1];
+if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+return;
+}
+try {
+f.hitCallback();
+} catch (ex) {
+}
+};
+__gaTracker.create = function() {
+return new Tracker();
+};
+__gaTracker.getByName = noopnullfn;
+__gaTracker.getAll = function() {
+return [];
+};
+__gaTracker.remove = noopfn;
+window['__gaTracker'] = __gaTracker;
+})();
+}
+</script> <!-- / Google Analytics by MonsterInsights -->
+  <meta content="Divi v.4.6.5" name="generator">
+  <link rel="stylesheet" id="mec-select2-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/fe08w0pl/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-font-icons-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/mjopmrap/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-frontend-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/1e1oty2l/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-tooltip-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/g0e03b9z/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-tooltip-shadow-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/fu0d911m/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="featherlight-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/g3vs2guu/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-google-fonts-css" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CRoboto%3A100%2C300%2C400%2C700&amp;ver=5.5.11" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-lity-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/qsml4f05/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="mec-general-calendar-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/d3psfckw/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="xt-icons-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/1332cmwm/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="xt_framework_add-to-cart-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/k97xgqd2/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="wp-block-library-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/qxa46ff0/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="wc-block-vendors-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/d3v1260b/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="wc-block-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/d7om6t9/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="ssb-ui-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/kz4bbslq/4o8tn.css" type="text/css" media="all">
+  <style id="ssb-ui-style-inline-css" type="text/css">
+#ssb-btn-2{background: #d7b56d;}
+#ssb-btn-2:hover{background:rgba(215,181,109,0.9);}
+#ssb-btn-2 a{color: #ffffff;}
+.ssb-share-btn,.ssb-share-btn .ssb-social-popup{background:#d7b56d;color:#ffffff}.ssb-share-btn:hover{background:rgba(215,181,109,0.9);}.ssb-share-btn a{color:#ffffff !important;}#ssb-btn-0{background: #d7b56d;}
+#ssb-btn-0:hover{background:rgba(215,181,109,0.9);}
+#ssb-btn-0 a{color: #ffffff;}
+#ssb-btn-1{background: #d7b56d;}
+#ssb-btn-1:hover{background:rgba(215,181,109,0.9);}
+#ssb-btn-1 a{color: #ffffff;}
+#ssb-btn-3{background: #d7b56d;}
+#ssb-btn-3:hover{background:rgba(215,181,109,0.9);}
+#ssb-btn-3 a{color: #ffffff;}
+</style>
+  <link rel="stylesheet" id="ssb-fontawesome-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/kax4m6xg/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="woocommerce-layout-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/ma6q207h/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="woocommerce-smallscreen-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/1z1gli9/4o8tn.css" type="text/css" media="only screen and (max-width: 768px)">
+  <link rel="stylesheet" id="woocommerce-general-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/1ys3gk20/4o8tn.css" type="text/css" media="all">
+  <style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+  <link rel="stylesheet" id="exactmetrics-popular-posts-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/qxaurk99/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="monsterinsights-popular-posts-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/6knn5tuw/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="css-divi-area-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/77hw18ck/4o8tn.css" type="text/css" media="all">
+  <style id="css-divi-area-inline-css" type="text/css">
+.et_pb_section.popup{display:none}
+</style>
+  <link rel="stylesheet" id="xtfw_notice-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/m7txtzy1/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="divi-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext&amp;display=swap" type="text/css" media="all">
+  <link rel="stylesheet" id="divi-style-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/knzcarqe/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="divi-styles-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/jm7v7h12/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="xt-woo-floating-cart-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/e6i6rrck/4o8tn.css" type="text/css" media="all">
+  <link rel="stylesheet" id="fancybox-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/drur09c0/4p3yp.css" type="text/css" media="screen">
+  <link rel="stylesheet" id="dashicons-css" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/f5735lnk/4o8tn.css" type="text/css" media="all">
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" id="jquery-core-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/mec-general-calendar.js?ver=6.1.0" id="mec-general-calendar-script-js"></script>
+  <script type="text/javascript" id="mec-frontend-script-js-extra">
+/* <![CDATA[ */
+var mecdata = {"day":"\u0434\u0435\u043d\u044c","days":"\u0434\u043d\u0438","hour":"\u0447\u0430\u0441","hours":"\u0447\u0430\u0441\u044b","minute":"\u043c\u0438\u043d\u0443\u0442\u0430","minutes":"\u043c\u0438\u043d\u0443\u0442\u044b","second":"\u0441\u0435\u043a\u0443\u043d\u0434\u0430","seconds":"\u0441\u0435\u043a\u0443\u043d\u0434\u044b","elementor_edit_mode":"no","recapcha_key":"","ajax_url":"https:\/\/dombulgakova.ru\/wp-admin\/admin-ajax.php","fes_nonce":"4f77eb06c2","current_year":"2022","current_month":"11","datepicker_format":"yy-mm-dd&Y-m-d"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=6.1.0" id="mec-frontend-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=6.1.0" id="mec-events-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+  <script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_822eb39438b986c4f278ff21b4858bd8","fragment_name":"wc_fragments_822eb39438b986c4f278ff21b4858bd8","request_timeout":"5000"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.9.5" id="wc-cart-fragments-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woo-floating-cart-lite/xt-framework/assets/js/jquery.ajaxqueue-min.js?ver=1.6.4" id="xt-jquery-ajaxqueue-js"></script>
+  <script type="text/javascript" src="https://polyfill.io/v3/polyfill.min.js?features=ResizeObserver%2CMutationObserver&amp;ver=1.6.4" id="xt-observers-polyfill-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+  <script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/dombulgakova.ru\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.9.5" id="wc-add-to-cart-js"></script>
+  <script type="text/javascript" id="xt_framework_add-to-cart-js-extra">
+/* <![CDATA[ */
+var XT_ATC = {"customizerConfigId":"xt_framework_add-to-cart","ajaxUrl":"https:\/\/dombulgakova.ru\/?wc-ajax=%%endpoint%%","ajaxAddToCart":"1","ajaxSinglePageAddToCart":"1","singleRefreshFragments":"","singleScrollToNotice":"1","singleScrollToNoticeTimeout":"","isProductPage":"","overrideSpinner":"","spinnerIcon":"","checkmarkIcon":"","redirectionEnabled":"","redirectionTo":"https:\/\/dombulgakova.ru\/cart\/"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woo-floating-cart-lite/xt-framework/includes/modules/add-to-cart/assets/js/add-to-cart-min.js?ver=1.6.4" id="xt_framework_add-to-cart-js"></script>
+  <script type="text/javascript" id="monsterinsights-frontend-script-js-extra">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/dombulgakova.ru","hash_tracking":"false"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.13.0" id="monsterinsights-frontend-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1" id="stickyAnythingLib-js"></script>
+  <script type="text/javascript" id="ssb-ui-js-js-extra">
+/* <![CDATA[ */
+var ssb_ui_data = {"z_index":"9998"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js.js?ver=5.5.11" id="ssb-ui-js-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.3" id="dap-ie-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.5.11" id="es6-promise-js"></script>
+  <script type="text/javascript" id="et-core-api-spam-recaptcha-js-extra">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"diyavol"}};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.5.11" id="et-core-api-spam-recaptcha-js"></script>
+  <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1448023-40tvj"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+  <noscript>
+   &lt;img src="https://vk.com/rtrg?p=VK-RTRG-1448023-40tvj" style="position:fixed; left:-999px;" alt=""&gt;
+  </noscript> <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ym(89302388, "init", {
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+</script>
+  <noscript>
+   &lt;div&gt;&lt;img src="https://mc.yandex.ru/watch/89302388" style="position:absolute; left:-9999px;" alt=""&gt;
+  </noscript> <!-- /Yandex.Metrika counter -->
+  <meta name="yandex-verification" content="4d81ebc26d87f2b5">
+  <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/fbrfg/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/fbrfg/favicon-16x16.png">
+  <link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest">
+  <link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff"><!-- Analytics by WP-Statistics v13.1.1 - https://wp-statistics.com/ -->
+  <script>var WP_Statistics_http = new XMLHttpRequest();WP_Statistics_http.open('GET', 'https://dombulgakova.ru/wp-json/wp-statistics/v2/hit?_=1667634151&_wpnonce=dc7ef7059c&wp_statistics_hit_rest=yes&browser=Firefox&platform=Windows&version=6.1&referred=http://www.google.com&ip=80.89.204.66&exclusion_match=no&exclusion_reason&ua=Mozilla/5.0 (Windows NT 6.1; U;WOW64; de;rv:11.0) Gecko Firefox/11.0&track_all=1&timestamp=1667644952&current_page_type=page&current_page_id=4510&search_query&page_uri=/diyavol/&user_id=0', true);WP_Statistics_http.setRequestHeader("Content-Type", "application/json;charset=UTF-8");WP_Statistics_http.send(null);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <noscript>
+   <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
+  </noscript>
+  <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+  <link rel="icon" href="https://dombulgakova.ru/wp-content/uploads/2020/04/cropped-mabylgakovfotopredostavlenomyzeem-e1585768582622-32x32.jpeg" sizes="32x32">
+  <link rel="icon" href="https://dombulgakova.ru/wp-content/uploads/2020/04/cropped-mabylgakovfotopredostavlenomyzeem-e1585768582622-192x192.jpeg" sizes="192x192">
+  <link rel="apple-touch-icon" href="https://dombulgakova.ru/wp-content/uploads/2020/04/cropped-mabylgakovfotopredostavlenomyzeem-e1585768582622-180x180.jpeg">
+  <meta name="msapplication-TileImage" content="https://dombulgakova.ru/wp-content/uploads/2020/04/cropped-mabylgakovfotopredostavlenomyzeem-e1585768582622-270x270.jpeg">
+  <link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="//dombulgakova.ru/wp-content/cache/wpfc-minified/1mw6fjnf/cb2rg.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)">
+  <style id="xirki-inline-styles">:root{--xt-woofc-overlay-color:rgba(0,0,0,.5);--xt-woofc-checkout-btn-bg-color:#dd9933;--xt-woofc-checkout-btn-bg-hover-color:#965d07;--xt-woofc-checkout-btn-color:#ffffff;--xt-woofc-checkout-btn-hover-color:#ffffff;}@media screen and (min-width: 783px){:root{--xt-woofc-zindex:90200;}.select2-container{z-index:calc(90200 + 2000)!important;}}@media screen and (max-width: 782px){:root{--xt-woofc-zindex:90200;}.select2-container{z-index:calc(90200 + 2000)!important;}}@media screen and (max-width: 480px){:root{--xt-woofc-zindex:90200;}.select2-container{z-index:calc(90200 + 2000)!important;}}</style>
+  <style type="text/css">.mec-wrap, .mec-wrap div:not([class^="elementor-"]), .lity-container, .mec-wrap h1, .mec-wrap h2, .mec-wrap h3, .mec-wrap h4, .mec-wrap h5, .mec-wrap h6, .entry-content .mec-wrap h1, .entry-content .mec-wrap h2, .entry-content .mec-wrap h3, .entry-content .mec-wrap h4, .entry-content .mec-wrap h5, .entry-content .mec-wrap h6, .mec-wrap .mec-totalcal-box input[type="submit"], .mec-wrap .mec-totalcal-box .mec-totalcal-view span, .mec-agenda-event-title a, .lity-content .mec-events-meta-group-booking select, .lity-content .mec-book-ticket-variation h5, .lity-content .mec-events-meta-group-booking input[type="number"], .lity-content .mec-events-meta-group-booking input[type="text"], .lity-content .mec-events-meta-group-booking input[type="email"],.mec-organizer-item a, .mec-single-event .mec-events-meta-group-booking ul.mec-book-tickets-container li.mec-book-ticket-container label { font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;}.mec-event-content p, .mec-search-bar-result .mec-event-detail{ font-family: Roboto, sans-serif;} .mec-wrap .mec-totalcal-box input, .mec-wrap .mec-totalcal-box select, .mec-checkboxes-search .mec-searchbar-category-wrap, .mec-wrap .mec-totalcal-box .mec-totalcal-view span { font-family: "Roboto", Helvetica, Arial, sans-serif; }.mec-event-grid-modern .event-grid-modern-head .mec-event-day, .mec-event-list-minimal .mec-time-details, .mec-event-list-minimal .mec-event-detail, .mec-event-list-modern .mec-event-detail, .mec-event-grid-minimal .mec-time-details, .mec-event-grid-minimal .mec-event-detail, .mec-event-grid-simple .mec-event-detail, .mec-event-cover-modern .mec-event-place, .mec-event-cover-clean .mec-event-place, .mec-calendar .mec-event-article .mec-localtime-details div, .mec-calendar .mec-event-article .mec-event-detail, .mec-calendar.mec-calendar-daily .mec-calendar-d-top h2, .mec-calendar.mec-calendar-daily .mec-calendar-d-top h3, .mec-toggle-item-col .mec-event-day, .mec-weather-summary-temp { font-family: "Roboto", sans-serif; } .mec-fes-form, .mec-fes-list, .mec-fes-form input, .mec-event-date .mec-tooltip .box, .mec-event-siteStatus .mec-tooltip .box, .ui-datepicker.ui-widget, .mec-fes-form button[type="submit"].mec-fes-sub-button, .mec-wrap .mec-timeline-events-container p, .mec-wrap .mec-timeline-events-container h4, .mec-wrap .mec-timeline-events-container div, .mec-wrap .mec-timeline-events-container a, .mec-wrap .mec-timeline-events-container span { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important; }.mec-event-grid-minimal .mec-modal-booking-button:hover, .mec-events-timeline-wrap .mec-organizer-item a, .mec-events-timeline-wrap .mec-organizer-item:after, .mec-events-timeline-wrap .mec-shortcode-organizers i, .mec-timeline-event .mec-modal-booking-button, .mec-wrap .mec-map-lightbox-wp.mec-event-list-classic .mec-event-date, .mec-timetable-t2-col .mec-modal-booking-button:hover, .mec-event-container-classic .mec-modal-booking-button:hover, .mec-calendar-events-side .mec-modal-booking-button:hover, .mec-event-grid-yearly  .mec-modal-booking-button, .mec-events-agenda .mec-modal-booking-button, .mec-event-grid-simple .mec-modal-booking-button, .mec-event-list-minimal  .mec-modal-booking-button:hover, .mec-timeline-month-divider,  .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic .mec-selected-day,.mec-wrap.colorskin-custom .mec-color, .mec-wrap.colorskin-custom .mec-event-sharing-wrap .mec-event-sharing > li:hover a, .mec-wrap.colorskin-custom .mec-color-hover:hover, .mec-wrap.colorskin-custom .mec-color-before *:before ,.mec-wrap.colorskin-custom .mec-widget .mec-event-grid-classic.owl-carousel .owl-nav i,.mec-wrap.colorskin-custom .mec-event-list-classic a.magicmore:hover,.mec-wrap.colorskin-custom .mec-event-grid-simple:hover .mec-event-title,.mec-wrap.colorskin-custom .mec-single-event .mec-event-meta dd.mec-events-event-categories:before,.mec-wrap.colorskin-custom .mec-single-event-date:before,.mec-wrap.colorskin-custom .mec-single-event-time:before,.mec-wrap.colorskin-custom .mec-events-meta-group.mec-events-meta-group-venue:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month i,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic dt.mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-infowindow-wp h5 a:hover, .colorskin-custom .mec-events-meta-group-countdown .mec-end-counts h3,.mec-calendar .mec-calendar-side .mec-next-month i,.mec-wrap .mec-totalcal-box i,.mec-calendar .mec-event-article .mec-event-title a:hover,.mec-attendees-list-details .mec-attendee-profile-link a:hover,.mec-wrap.colorskin-custom .mec-next-event-details li i, .mec-next-event-details i:before, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-next-event-details a,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected,.lity .mec-color,.lity .mec-color-before :before,.lity .mec-color-hover:hover,.lity .mec-wrap .mec-color,.lity .mec-wrap .mec-color-before :before,.lity .mec-wrap .mec-color-hover:hover,.leaflet-popup-content .mec-color,.leaflet-popup-content .mec-color-before :before,.leaflet-popup-content .mec-color-hover:hover,.leaflet-popup-content .mec-wrap .mec-color,.leaflet-popup-content .mec-wrap .mec-color-before :before,.leaflet-popup-content .mec-wrap .mec-color-hover:hover, .mec-calendar.mec-calendar-daily .mec-calendar-d-table .mec-daily-view-day.mec-daily-view-day-active.mec-color, .mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail i,.mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail:hover,.mec-map-boxshow .mec-color,.mec-map-boxshow .mec-color-before :before,.mec-map-boxshow .mec-color-hover:hover,.mec-map-boxshow .mec-wrap .mec-color,.mec-map-boxshow .mec-wrap .mec-color-before :before,.mec-map-boxshow .mec-wrap .mec-color-hover:hover, .mec-choosen-time-message, .mec-booking-calendar-month-navigation .mec-next-month:hover, .mec-booking-calendar-month-navigation .mec-previous-month:hover, .mec-yearly-view-wrap .mec-agenda-event-title a:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover, .mec-av-spot .mec-av-spot-head .mec-av-spot-box span, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover .mec-load-month-link, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover .mec-load-month-link, .mec-skin-list-events-container .mec-data-fields-tooltip .mec-data-fields-tooltip-box ul .mec-event-data-field-item a, .mec-booking-shortcode .mec-event-ticket-name, .mec-booking-shortcode .mec-event-ticket-price, .mec-booking-shortcode .mec-ticket-variation-name, .mec-booking-shortcode .mec-ticket-variation-price, .mec-booking-shortcode label, .mec-booking-shortcode .nice-select, .mec-booking-shortcode input, .mec-booking-shortcode span.mec-book-price-detail-description, .mec-booking-shortcode .mec-ticket-name, .mec-booking-shortcode label.wn-checkbox-label{color: #513b1d}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-wrap.colorskin-custom .mec-event-sharing .mec-event-share:hover .event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-grid-clean .mec-event-date,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing li:hover a i,.mec-wrap.colorskin-custom .mec-calendar:not(.mec-event-calendar-classic) .mec-selected-day,.mec-wrap.colorskin-custom .mec-calendar .mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-row  dt.mec-has-event:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-has-event:after, .mec-wrap.colorskin-custom .mec-bg-color, .mec-wrap.colorskin-custom .mec-bg-color-hover:hover, .colorskin-custom .mec-event-sharing-wrap:hover > li, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .flip-clock-wrapper ul li a div div.inn,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel,.mec-event-countdown-style3 .mec-event-date,#wrap .mec-wrap article.mec-event-countdown-style1,.mec-event-countdown-style1 .mec-event-countdown-part3 a.mec-event-button,.mec-wrap .mec-event-countdown-style2,.mec-map-get-direction-btn-cnt input[type="submit"],.mec-booking button,span.mec-marker-wrap,.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:before, .mec-has-event-for-booking.mec-active .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-ongoing-normal-label, .mec-calendar .mec-has-event:after, .mec-event-list-modern .mec-event-sharing li:hover .telegram{background-color: #513b1d;}.mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active{ background-color: #513b1d;}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-timeline-month-divider, .mec-wrap.colorskin-custom .mec-single-event .mec-speakers-details ul li .mec-speaker-avatar a:hover img,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-standard .mec-month-divider span:before,.mec-wrap.colorskin-custom .mec-single-event .mec-social-single:before,.mec-wrap.colorskin-custom .mec-single-event .mec-frontbox-title:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-events-side .mec-table-side-day, .mec-wrap.colorskin-custom .mec-border-color, .mec-wrap.colorskin-custom .mec-border-color-hover:hover, .colorskin-custom .mec-single-event .mec-frontbox-title:before, .colorskin-custom .mec-single-event .mec-wrap-checkout h4:before, .colorskin-custom .mec-single-event .mec-events-meta-group-booking form > h4:before, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel:after,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-wrap.colorskin-custom .mec-events-masonry-cats a:hover, .mec-has-event-for-booking .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-virtual-event-history h3:before, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-rsvp-form-box form > h4:before, .mec-wrap .mec-box-title::before, .mec-box-title::before  {border-color: #513b1d;}.mec-wrap.colorskin-custom .mec-event-countdown-style3 .mec-event-date:after,.mec-wrap.colorskin-custom .mec-month-divider span:before, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day:hover{border-bottom-color:#513b1d;}.mec-wrap.colorskin-custom  article.mec-event-countdown-style1 .mec-event-countdown-part2:after{border-color: transparent transparent transparent #513b1d;}.mec-wrap.colorskin-custom .mec-box-shadow-color { box-shadow: 0 4px 22px -7px #513b1d;}.mec-events-timeline-wrap .mec-shortcode-organizers, .mec-timeline-event .mec-modal-booking-button, .mec-events-timeline-wrap:before, .mec-wrap.colorskin-custom .mec-timeline-event-local-time, .mec-wrap.colorskin-custom .mec-timeline-event-time ,.mec-wrap.colorskin-custom .mec-timeline-event-location,.mec-choosen-time-message { background: rgba(81,59,29,.11);}.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:after{ background: rgba(81,59,29,.3);}.mec-booking-shortcode button { box-shadow: 0 2px 2px rgba(81 59 29 / 27%);}.mec-booking-shortcode button.mec-book-form-back-button{ background-color: rgba(81 59 29 / 40%);}.mec-events-meta-group-booking-shortcode{ background: rgba(81,59,29,.14);}.mec-booking-shortcode label.wn-checkbox-label, .mec-booking-shortcode .nice-select,.mec-booking-shortcode input, .mec-booking-shortcode .mec-book-form-gateway-label input[type=radio]:before, .mec-booking-shortcode input[type=radio]:checked:before, .mec-booking-shortcode ul.mec-book-price-details li, .mec-booking-shortcode ul.mec-book-price-details{ border-color: rgba(81 59 29 / 27%) !important;}.mec-booking-shortcode input::-webkit-input-placeholder,.mec-booking-shortcode textarea::-webkit-input-placeholder{color: #513b1d}.mec-booking-shortcode input::-moz-placeholder,.mec-booking-shortcode textarea::-moz-placeholder{color: #513b1d}.mec-booking-shortcode input:-ms-input-placeholder,.mec-booking-shortcode textarea:-ms-input-placeholder {color: #513b1d}.mec-booking-shortcode input:-moz-placeholder,.mec-booking-shortcode textarea:-moz-placeholder {color: #513b1d}.mec-booking-shortcode label.wn-checkbox-label:after, .mec-booking-shortcode label.wn-checkbox-label:before, .mec-booking-shortcode input[type=radio]:checked:after{background-color: #513b1d}.mec-wrap h1 a, .mec-wrap h2 a, .mec-wrap h3 a, .mec-wrap h4 a, .mec-wrap h5 a, .mec-wrap h6 a,.entry-content .mec-wrap h1 a, .entry-content .mec-wrap h2 a, .entry-content .mec-wrap h3 a,.entry-content  .mec-wrap h4 a, .entry-content .mec-wrap h5 a, .entry-content .mec-wrap h6 a {color: #513b1d !important;}.mec-wrap.colorskin-custom h1 a:hover, .mec-wrap.colorskin-custom h2 a:hover, .mec-wrap.colorskin-custom h3 a:hover, .mec-wrap.colorskin-custom h4 a:hover, .mec-wrap.colorskin-custom h5 a:hover, .mec-wrap.colorskin-custom h6 a:hover,.entry-content .mec-wrap.colorskin-custom h1 a:hover, .entry-content .mec-wrap.colorskin-custom h2 a:hover, .entry-content .mec-wrap.colorskin-custom h3 a:hover,.entry-content  .mec-wrap.colorskin-custom h4 a:hover, .entry-content .mec-wrap.colorskin-custom h5 a:hover, .entry-content .mec-wrap.colorskin-custom h6 a:hover {color: #513b1d !important;}.mec-wrap.colorskin-custom .mec-event-description {color: #513b1d;}</style>
+ </head>
+ <body class="page-template-default page page-id-4510 custom-background theme-Divi et-tb-has-template et-tb-has-header et-tb-has-footer woocommerce-no-js et_pb_button_helper_class et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+  <div id="page-container">
+   <div id="et-boc" class="et-boc">
+    <header class="et-l et-l--header">
+     <div class="et_builder_inner_content et_pb_gutters3">
+      <div id="header__top" class="et_pb_section et_pb_section_0_tb_header et_section_regular">
+       <div class="et_pb_row et_pb_row_0_tb_header">
+        <div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_header header__col header__col--left  et_pb_css_mix_blend_mode_passthrough">
+         <div class="et_pb_button_module_wrapper et_pb_button_0_tb_header_wrapper et_pb_button_alignment_left et_pb_module "><a class="et_pb_button et_pb_custom_button_icon et_pb_button_0_tb_header header__btn et_pb_bg_layout_light" href="https://dombulgakova.ru/kalendar/" data-icon="5">Календарь мероприятий</a>
+         </div>
+         <div class="et_pb_button_module_wrapper et_pb_button_1_tb_header_wrapper et_pb_button_alignment_left et_pb_module "><a class="et_pb_button et_pb_custom_button_icon et_pb_button_1_tb_header header__btn et_pb_bg_layout_light" href="https://listim.com/iframe/70/api?site=dombulgakova.ru#/" target="_blank" data-icon="5">Купить билет</a>
+         </div>
+         <div class="et_pb_button_module_wrapper et_pb_button_2_tb_header_wrapper et_pb_button_alignment_left et_pb_module "><a class="et_pb_button et_pb_custom_button_icon et_pb_button_2_tb_header header__btn et_pb_bg_layout_light" href="https://dombulgakova.ru/magazin/" target="_blank" data-icon="5">Интернет-магазин</a>
+         </div>
+        </div> <!-- .et_pb_column -->
+        <div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_header header__col header__col--center  et_pb_css_mix_blend_mode_passthrough">
+         <div class="et_pb_module et_pb_image et_pb_image_0_tb_header header__logo"><a href="https://dombulgakova.ru/novosti/"><span class="et_pb_image_wrap "><img loading="lazy" src="https://dombulgakova.ru/wp-content/uploads/2018/05/logo-e1525425532829.png" alt="" title="" height="auto" width="auto" class="wp-image-92"></span></a>
+         </div>
+        </div> <!-- .et_pb_column -->
+        <div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_header header__col header__col--right  et_pb_css_mix_blend_mode_passthrough et-last-child">
+         <div class="et_pb_module et_pb_text et_pb_text_0_tb_header header__contacts  et_pb_text_align_left et_pb_bg_layout_light">
+          <div class="et_pb_text_inner">
+           <p style="text-align: right"><a href="https://goo.gl/maps/9yw53a9x4jGSvSTR9" title="Показать на карте" target="_blank" rel="noopener noreferrer">г.Москва м.Маяковская, <br>ул.Большая Садовая, д.10</a></p>
+           <p style="text-align: right"><a href="tel:+74959700619"><span>8 (495) 970-06-19</span></a></p>
+           <p style="text-align: right"><a href="tel:+74957759461"><span>8 (495) 775-94-61</span></a></p>
+           <p style="text-align:right"><a href="mailto:info@dombulgakova.ru">info@dombulgakova.ru</a></p>
+          </div>
+         </div> <!-- .et_pb_text -->
+         <ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_header header__soc clearfix  et_pb_text_align_right et_pb_bg_layout_light">
+          <li class="et_pb_social_media_follow_network_0_tb_header et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_0_tb_header"><a href="https://vk.com/bulgakov_house" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+          <li class="et_pb_social_media_follow_network_1_tb_header et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_1_tb_header"><a href="http://wa.me/79037680204" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+          <li class="et_pb_social_media_follow_network_2_tb_header et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_2_tb_header"><a href="https://t.me/theatre_bulgakova" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+         </ul> <!-- .et_pb_counters -->
+        </div> <!-- .et_pb_column -->
+       </div> <!-- .et_pb_row -->
+      </div> <!-- .et_pb_section -->
+      <div id="sticky" class="et_pb_with_border et_pb_section et_pb_section_1_tb_header et_pb_fullwidth_section et_section_regular">
+       <div class="et_pb_with_border et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_0_tb_header header__nav--pc et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_fullwidth_menu--without-logo et_pb_fullwidth_menu--style-centered">
+        <div class="et_pb_row clearfix">
+         <div class="et_pb_menu__wrap">
+          <div class="et_pb_menu__menu">
+           <nav class="et-menu-nav fullwidth-menu-nav">
+            <ul id="menu-main" class="et-menu fullwidth-menu nav">
+             <li class="et_pb_menu_page_id-79 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79"><a href="#">Афиша</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-72 menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://dombulgakova.ru/kalendar/">КАЛЕНДАРЬ</a></li>
+               <li class="et_pb_menu_page_id-755 menu-item menu-item-type-custom menu-item-object-custom menu-item-755"><a href="https://dombulgakova.ru/mec-category/ekskursii/">Экскурсии</a></li>
+               <li class="et_pb_menu_page_id-756 menu-item menu-item-type-custom menu-item-object-custom menu-item-756"><a href="https://dombulgakova.ru/mec-category/spektakly/">Спектакли</a></li>
+               <li class="et_pb_menu_page_id-3695 menu-item menu-item-type-custom menu-item-object-custom menu-item-3695"><a href="https://dombulgakova.ru/mec-category/lektorii-vistavky/">Лектории и Выставки</a></li>
+               <li class="et_pb_menu_page_id-4598 menu-item menu-item-type-post_type menu-item-object-post menu-item-4679"><a href="https://dombulgakova.ru/2020/04/01/pryamye-efiry/">Прямые эфиры!</a></li>
+               <li class="et_pb_menu_page_id-9266 menu-item menu-item-type-post_type menu-item-object-page menu-item-9287"><a href="https://dombulgakova.ru/klassika-novoe-prochtenie/">Классика. Новое прочтение.</a></li>
+              </ul></li>
+             <li class="mega-menu et_pb_menu_page_id-1049 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1049"><a href="#">Домъ</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-30 menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://dombulgakova.ru/dom/">Домъ</a></li>
+               <li class="et_pb_menu_page_id-1128 menu-item menu-item-type-post_type menu-item-object-page menu-item-1130"><a href="https://dombulgakova.ru/history/">История</a></li>
+               <li class="et_pb_menu_page_id-207 menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://dombulgakova.ru/o-nas/">О Нас</a></li>
+               <li class="et_pb_menu_page_id-209 menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://dombulgakova.ru/komanda/">Команда</a></li>
+               <li class="et_pb_menu_page_id-125 menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://dombulgakova.ru/kot-begemot/">Кот Бегемот</a></li>
+               <li class="et_pb_menu_page_id-211 menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://dombulgakova.ru/popechitelskij-sovet/">Попечительский совет</a></li>
+               <li class="et_pb_menu_page_id-1313 menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://dombulgakova.ru/druzyam-i-partneram/">Друзьям и партнерам</a></li>
+               <li class="et_pb_menu_page_id-1317 menu-item menu-item-type-post_type menu-item-object-page menu-item-1321"><a href="https://dombulgakova.ru/bulgakovskij-almanah/">Булгаковский Альманах</a></li>
+               <li class="et_pb_menu_page_id-219 menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://dombulgakova.ru/nashi-nagrady/">Наши награды</a></li>
+               <li class="et_pb_menu_page_id-1278 menu-item menu-item-type-post_type menu-item-object-page menu-item-1282"><a href="https://dombulgakova.ru/volontery/">Волонтеры</a></li>
+               <li class="et_pb_menu_page_id-3299 menu-item menu-item-type-post_type menu-item-object-page menu-item-3310"><a href="https://dombulgakova.ru/pravila-poseshheniya/">Правила посещения</a></li>
+               <li class="et_pb_menu_page_id-201 menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://dombulgakova.ru/fotogalereya-dom/">Фотогалерея</a></li>
+               <li class="et_pb_menu_page_id-1039 menu-item menu-item-type-post_type menu-item-object-page menu-item-3613"><a href="https://dombulgakova.ru/kontakty/">Контакты</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-80 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80"><a href="#">Музей</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-115 menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://dombulgakova.ru/o-muzee/">О музее</a></li>
+               <li class="et_pb_menu_page_id-757 menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a target="_blank" rel="noopener noreferrer" href="https://service.listim.com/iframe/70/afisha">Афиша</a></li>
+               <li class="et_pb_menu_page_id-4365 menu-item menu-item-type-post_type menu-item-object-page menu-item-4421"><a href="https://dombulgakova.ru/excursii/">Экскурсии</a></li>
+               <li class="et_pb_menu_page_id-4646 menu-item menu-item-type-post_type menu-item-object-page menu-item-4650"><a href="https://dombulgakova.ru/gid/">Наши гиды</a></li>
+               <li class="et_pb_menu_page_id-119 menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://dombulgakova.ru/bulgakovskaya-encziklopediya/">Булгаковская энциклопедия</a></li>
+               <li class="et_pb_menu_page_id-121 menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://dombulgakova.ru/bufet-302-bis/">Буфет 302-БиС</a></li>
+               <li class="et_pb_menu_page_id-123 menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://dombulgakova.ru/suvenirnaya-lavka/">Сувенирная лавка</a></li>
+               <li class="et_pb_menu_page_id-125 menu-item menu-item-type-post_type menu-item-object-page menu-item-1400"><a href="https://dombulgakova.ru/kot-begemot/">Кот Бегемот</a></li>
+               <li class="et_pb_menu_page_id-1406 menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a href="https://dombulgakova.ru/fotogalereya-muzej/">Фотогалерея</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-81 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81"><a href="#">Театр</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-5012 menu-item menu-item-type-custom menu-item-object-custom menu-item-5012"><a href="/afisha/">Афиша</a></li>
+               <li class="et_pb_menu_page_id-151 menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://dombulgakova.ru/o-teatre/">О театре</a></li>
+               <li class="et_pb_menu_page_id-153 menu-item menu-item-type-post_type menu-item-object-page menu-item-2086"><a href="https://dombulgakova.ru/spektakli/">Спектакли</a></li>
+               <li class="et_pb_menu_page_id-158 menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="https://dombulgakova.ru/aktery/">Актеры</a></li>
+               <li class="et_pb_menu_page_id-162 menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://dombulgakova.ru/detskaya-teatralnaya-studiya/">Детская театральная студия</a></li>
+               <li class="et_pb_menu_page_id-1421 menu-item menu-item-type-post_type menu-item-object-page menu-item-1438"><a href="https://dombulgakova.ru/gastroli/">Гастроли</a></li>
+               <li class="et_pb_menu_page_id-1432 menu-item menu-item-type-post_type menu-item-object-page menu-item-1437"><a href="https://dombulgakova.ru/festivali/">Фестивали</a></li>
+               <li class="et_pb_menu_page_id-1434 menu-item menu-item-type-post_type menu-item-object-page menu-item-1436"><a href="https://dombulgakova.ru/fotogalereya-teatr/">Фотогалерея</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-82 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="#">События</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-172 menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="https://dombulgakova.ru/den-rozhdeniya-m-a-bulgakova/">День рождения М.А. Булгакова</a></li>
+               <li class="et_pb_menu_page_id-174 menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://dombulgakova.ru/festival-imeni-m-a-bulgakova/">Фестиваль имени М. А. Булгакова</a></li>
+               <li class="et_pb_menu_page_id-176 menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://dombulgakova.ru/den-ispolneniya-zhelanij/">День исполнения желаний</a></li>
+               <li class="et_pb_menu_page_id-178 menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://dombulgakova.ru/noch-muzeev/">Ночь музеев</a></li>
+               <li class="et_pb_menu_page_id-180 menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://dombulgakova.ru/biblionoch/">Библионочь</a></li>
+               <li class="et_pb_menu_page_id-182 menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://dombulgakova.ru/den-i-noch-teatra/">День и Ночь театра</a></li>
+               <li class="et_pb_menu_page_id-194 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-194"><a href="#">Праздники</a>
+                <ul class="sub-menu">
+                 <li class="et_pb_menu_page_id-5457 menu-item menu-item-type-post_type menu-item-object-page menu-item-5461"><a href="https://dombulgakova.ru/den-goroda/">День Города</a></li>
+                 <li class="et_pb_menu_page_id-184 menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://dombulgakova.ru/novyj-god/">Новый Год</a></li>
+                </ul></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-652 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-652"><a href="#">Культурный центр</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-1568 menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://dombulgakova.ru/vystavki/">Выставки</a></li>
+               <li class="et_pb_menu_page_id-131 menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://dombulgakova.ru/literaturnyj-salon-andreya-korovina/">Литературный салон А.&nbsp;Коровина</a></li>
+               <li class="et_pb_menu_page_id-129 menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://dombulgakova.ru/nauchno-metodicheskij-otdel-i-ya-gorpenk/">Научно-методический отдел И.Я. Горпенко</a></li>
+               <li class="et_pb_menu_page_id-133 menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://dombulgakova.ru/literaturnaya-gostinaya-loly-zvonarev/">Литературная гостиная Л.&nbsp;Звонаревой</a></li>
+               <li class="et_pb_menu_page_id-135 menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://dombulgakova.ru/fotostudiya-eleny-martynyuk/">Фотостудия Е.&nbsp;Мартынюк</a></li>
+               <li class="et_pb_menu_page_id-9250 menu-item menu-item-type-post_type menu-item-object-page menu-item-9258"><a href="https://dombulgakova.ru/biblioteka-bulgakovskogo-doma/">Библиотека Булгаковского Дома</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-83 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83"><a href="#">Новости</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-206"><a href="https://dombulgakova.ru/">Новости</a></li>
+               <li class="et_pb_menu_page_id-197 menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://dombulgakova.ru/smi-o-nas/">СМИ о нас</a></li>
+               <li class="et_pb_menu_page_id-199 menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://dombulgakova.ru/otzyvy/">Отзывы</a></li>
+               <li class="et_pb_menu_page_id-4068 menu-item menu-item-type-post_type menu-item-object-page menu-item-4072"><a href="https://dombulgakova.ru/olimpiada/">Олимпиада “Музеи. Парки. Усадьбы”</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-5326 menu-item menu-item-type-post_type menu-item-object-page menu-item-5328"><a href="https://dombulgakova.ru/shkola-studiya-bulgakovkogo-doma/">Школа-студия</a></li>
+             <li class="et_pb_menu_page_id-84 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-84"><a href="#">Привилегии</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-213 menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://dombulgakova.ru/klub-bulgakovskogo-doma/">Клуб друзей</a></li>
+               <li class="et_pb_menu_page_id-1540 menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="https://dombulgakova.ru/speczpredlozheniya/">Спецпредложения</a></li>
+               <li class="et_pb_menu_page_id-1543 menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="https://dombulgakova.ru/podarochnye-sertifikaty-2/">Подарочные сертификаты</a></li>
+               <li class="et_pb_menu_page_id-1545 menu-item menu-item-type-post_type menu-item-object-page menu-item-1549"><a href="https://dombulgakova.ru/korporativnye-predlozheniya-3/">Корпоративные предложения</a></li>
+               <li class="et_pb_menu_page_id-1552 menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://dombulgakova.ru/voprosy-i-otvety-3/">Вопросы и ответы</a></li>
+              </ul></li>
+            </ul>
+           </nav>
+          </div> <button type="button" class="et_pb_menu__icon et_pb_menu__search-button"></button>
+          <div class="et_mobile_nav_menu"><a href="#" class="mobile_nav closed"> <span class="mobile_menu_bar"></span> </a>
+          </div>
+         </div>
+         <div class="et_pb_menu__search-container et_pb_menu__search-container--disabled">
+          <div class="et_pb_menu__search">
+           <form role="search" method="get" class="et_pb_menu__search-form" action="https://dombulgakova.ru/"><input type="search" class="et_pb_menu__search-input" placeholder="Поиск ..." name="s" title="Поиск:">
+           </form> <button type="button" class="et_pb_menu__icon et_pb_menu__close-search-button"></button>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div> <!-- .et_pb_section -->
+      <div id="sticky" class="et_pb_with_border et_pb_section et_pb_section_2_tb_header et_pb_fullwidth_section et_section_regular">
+       <div class="et_pb_with_border et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_1_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_fullwidth_menu--without-logo et_pb_fullwidth_menu--style-left_aligned">
+        <div class="et_pb_row clearfix">
+         <div class="et_pb_menu__wrap">
+          <div class="et_pb_menu__menu">
+           <nav class="et-menu-nav fullwidth-menu-nav">
+            <ul id="menu-main-1" class="et-menu fullwidth-menu nav">
+             <li class="et_pb_menu_page_id-79 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79"><a href="#">Афиша</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-72 menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://dombulgakova.ru/kalendar/">КАЛЕНДАРЬ</a></li>
+               <li class="et_pb_menu_page_id-755 menu-item menu-item-type-custom menu-item-object-custom menu-item-755"><a href="https://dombulgakova.ru/mec-category/ekskursii/">Экскурсии</a></li>
+               <li class="et_pb_menu_page_id-756 menu-item menu-item-type-custom menu-item-object-custom menu-item-756"><a href="https://dombulgakova.ru/mec-category/spektakly/">Спектакли</a></li>
+               <li class="et_pb_menu_page_id-3695 menu-item menu-item-type-custom menu-item-object-custom menu-item-3695"><a href="https://dombulgakova.ru/mec-category/lektorii-vistavky/">Лектории и Выставки</a></li>
+               <li class="et_pb_menu_page_id-4598 menu-item menu-item-type-post_type menu-item-object-post menu-item-4679"><a href="https://dombulgakova.ru/2020/04/01/pryamye-efiry/">Прямые эфиры!</a></li>
+               <li class="et_pb_menu_page_id-9266 menu-item menu-item-type-post_type menu-item-object-page menu-item-9287"><a href="https://dombulgakova.ru/klassika-novoe-prochtenie/">Классика. Новое прочтение.</a></li>
+              </ul></li>
+             <li class="mega-menu et_pb_menu_page_id-1049 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1049"><a href="#">Домъ</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-30 menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://dombulgakova.ru/dom/">Домъ</a></li>
+               <li class="et_pb_menu_page_id-1128 menu-item menu-item-type-post_type menu-item-object-page menu-item-1130"><a href="https://dombulgakova.ru/history/">История</a></li>
+               <li class="et_pb_menu_page_id-207 menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://dombulgakova.ru/o-nas/">О Нас</a></li>
+               <li class="et_pb_menu_page_id-209 menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://dombulgakova.ru/komanda/">Команда</a></li>
+               <li class="et_pb_menu_page_id-125 menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://dombulgakova.ru/kot-begemot/">Кот Бегемот</a></li>
+               <li class="et_pb_menu_page_id-211 menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://dombulgakova.ru/popechitelskij-sovet/">Попечительский совет</a></li>
+               <li class="et_pb_menu_page_id-1313 menu-item menu-item-type-post_type menu-item-object-page menu-item-1316"><a href="https://dombulgakova.ru/druzyam-i-partneram/">Друзьям и партнерам</a></li>
+               <li class="et_pb_menu_page_id-1317 menu-item menu-item-type-post_type menu-item-object-page menu-item-1321"><a href="https://dombulgakova.ru/bulgakovskij-almanah/">Булгаковский Альманах</a></li>
+               <li class="et_pb_menu_page_id-219 menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://dombulgakova.ru/nashi-nagrady/">Наши награды</a></li>
+               <li class="et_pb_menu_page_id-1278 menu-item menu-item-type-post_type menu-item-object-page menu-item-1282"><a href="https://dombulgakova.ru/volontery/">Волонтеры</a></li>
+               <li class="et_pb_menu_page_id-3299 menu-item menu-item-type-post_type menu-item-object-page menu-item-3310"><a href="https://dombulgakova.ru/pravila-poseshheniya/">Правила посещения</a></li>
+               <li class="et_pb_menu_page_id-201 menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://dombulgakova.ru/fotogalereya-dom/">Фотогалерея</a></li>
+               <li class="et_pb_menu_page_id-1039 menu-item menu-item-type-post_type menu-item-object-page menu-item-3613"><a href="https://dombulgakova.ru/kontakty/">Контакты</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-80 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80"><a href="#">Музей</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-115 menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://dombulgakova.ru/o-muzee/">О музее</a></li>
+               <li class="et_pb_menu_page_id-757 menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a target="_blank" rel="noopener noreferrer" href="https://service.listim.com/iframe/70/afisha">Афиша</a></li>
+               <li class="et_pb_menu_page_id-4365 menu-item menu-item-type-post_type menu-item-object-page menu-item-4421"><a href="https://dombulgakova.ru/excursii/">Экскурсии</a></li>
+               <li class="et_pb_menu_page_id-4646 menu-item menu-item-type-post_type menu-item-object-page menu-item-4650"><a href="https://dombulgakova.ru/gid/">Наши гиды</a></li>
+               <li class="et_pb_menu_page_id-119 menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://dombulgakova.ru/bulgakovskaya-encziklopediya/">Булгаковская энциклопедия</a></li>
+               <li class="et_pb_menu_page_id-121 menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://dombulgakova.ru/bufet-302-bis/">Буфет 302-БиС</a></li>
+               <li class="et_pb_menu_page_id-123 menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://dombulgakova.ru/suvenirnaya-lavka/">Сувенирная лавка</a></li>
+               <li class="et_pb_menu_page_id-125 menu-item menu-item-type-post_type menu-item-object-page menu-item-1400"><a href="https://dombulgakova.ru/kot-begemot/">Кот Бегемот</a></li>
+               <li class="et_pb_menu_page_id-1406 menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a href="https://dombulgakova.ru/fotogalereya-muzej/">Фотогалерея</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-81 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81"><a href="#">Театр</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-5012 menu-item menu-item-type-custom menu-item-object-custom menu-item-5012"><a href="/afisha/">Афиша</a></li>
+               <li class="et_pb_menu_page_id-151 menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://dombulgakova.ru/o-teatre/">О театре</a></li>
+               <li class="et_pb_menu_page_id-153 menu-item menu-item-type-post_type menu-item-object-page menu-item-2086"><a href="https://dombulgakova.ru/spektakli/">Спектакли</a></li>
+               <li class="et_pb_menu_page_id-158 menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="https://dombulgakova.ru/aktery/">Актеры</a></li>
+               <li class="et_pb_menu_page_id-162 menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://dombulgakova.ru/detskaya-teatralnaya-studiya/">Детская театральная студия</a></li>
+               <li class="et_pb_menu_page_id-1421 menu-item menu-item-type-post_type menu-item-object-page menu-item-1438"><a href="https://dombulgakova.ru/gastroli/">Гастроли</a></li>
+               <li class="et_pb_menu_page_id-1432 menu-item menu-item-type-post_type menu-item-object-page menu-item-1437"><a href="https://dombulgakova.ru/festivali/">Фестивали</a></li>
+               <li class="et_pb_menu_page_id-1434 menu-item menu-item-type-post_type menu-item-object-page menu-item-1436"><a href="https://dombulgakova.ru/fotogalereya-teatr/">Фотогалерея</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-82 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="#">События</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-172 menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="https://dombulgakova.ru/den-rozhdeniya-m-a-bulgakova/">День рождения М.А. Булгакова</a></li>
+               <li class="et_pb_menu_page_id-174 menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://dombulgakova.ru/festival-imeni-m-a-bulgakova/">Фестиваль имени М. А. Булгакова</a></li>
+               <li class="et_pb_menu_page_id-176 menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://dombulgakova.ru/den-ispolneniya-zhelanij/">День исполнения желаний</a></li>
+               <li class="et_pb_menu_page_id-178 menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://dombulgakova.ru/noch-muzeev/">Ночь музеев</a></li>
+               <li class="et_pb_menu_page_id-180 menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://dombulgakova.ru/biblionoch/">Библионочь</a></li>
+               <li class="et_pb_menu_page_id-182 menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://dombulgakova.ru/den-i-noch-teatra/">День и Ночь театра</a></li>
+               <li class="et_pb_menu_page_id-194 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-194"><a href="#">Праздники</a>
+                <ul class="sub-menu">
+                 <li class="et_pb_menu_page_id-5457 menu-item menu-item-type-post_type menu-item-object-page menu-item-5461"><a href="https://dombulgakova.ru/den-goroda/">День Города</a></li>
+                 <li class="et_pb_menu_page_id-184 menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://dombulgakova.ru/novyj-god/">Новый Год</a></li>
+                </ul></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-652 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-652"><a href="#">Культурный центр</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-1568 menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://dombulgakova.ru/vystavki/">Выставки</a></li>
+               <li class="et_pb_menu_page_id-131 menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://dombulgakova.ru/literaturnyj-salon-andreya-korovina/">Литературный салон А.&nbsp;Коровина</a></li>
+               <li class="et_pb_menu_page_id-129 menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://dombulgakova.ru/nauchno-metodicheskij-otdel-i-ya-gorpenk/">Научно-методический отдел И.Я. Горпенко</a></li>
+               <li class="et_pb_menu_page_id-133 menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://dombulgakova.ru/literaturnaya-gostinaya-loly-zvonarev/">Литературная гостиная Л.&nbsp;Звонаревой</a></li>
+               <li class="et_pb_menu_page_id-135 menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://dombulgakova.ru/fotostudiya-eleny-martynyuk/">Фотостудия Е.&nbsp;Мартынюк</a></li>
+               <li class="et_pb_menu_page_id-9250 menu-item menu-item-type-post_type menu-item-object-page menu-item-9258"><a href="https://dombulgakova.ru/biblioteka-bulgakovskogo-doma/">Библиотека Булгаковского Дома</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-83 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83"><a href="#">Новости</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-206"><a href="https://dombulgakova.ru/">Новости</a></li>
+               <li class="et_pb_menu_page_id-197 menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://dombulgakova.ru/smi-o-nas/">СМИ о нас</a></li>
+               <li class="et_pb_menu_page_id-199 menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://dombulgakova.ru/otzyvy/">Отзывы</a></li>
+               <li class="et_pb_menu_page_id-4068 menu-item menu-item-type-post_type menu-item-object-page menu-item-4072"><a href="https://dombulgakova.ru/olimpiada/">Олимпиада “Музеи. Парки. Усадьбы”</a></li>
+              </ul></li>
+             <li class="et_pb_menu_page_id-5326 menu-item menu-item-type-post_type menu-item-object-page menu-item-5328"><a href="https://dombulgakova.ru/shkola-studiya-bulgakovkogo-doma/">Школа-студия</a></li>
+             <li class="et_pb_menu_page_id-84 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-84"><a href="#">Привилегии</a>
+              <ul class="sub-menu">
+               <li class="et_pb_menu_page_id-213 menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="https://dombulgakova.ru/klub-bulgakovskogo-doma/">Клуб друзей</a></li>
+               <li class="et_pb_menu_page_id-1540 menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="https://dombulgakova.ru/speczpredlozheniya/">Спецпредложения</a></li>
+               <li class="et_pb_menu_page_id-1543 menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="https://dombulgakova.ru/podarochnye-sertifikaty-2/">Подарочные сертификаты</a></li>
+               <li class="et_pb_menu_page_id-1545 menu-item menu-item-type-post_type menu-item-object-page menu-item-1549"><a href="https://dombulgakova.ru/korporativnye-predlozheniya-3/">Корпоративные предложения</a></li>
+               <li class="et_pb_menu_page_id-1552 menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://dombulgakova.ru/voprosy-i-otvety-3/">Вопросы и ответы</a></li>
+              </ul></li>
+            </ul>
+           </nav>
+          </div> <button type="button" class="et_pb_menu__icon et_pb_menu__search-button"></button>
+          <div class="et_mobile_nav_menu"><a href="#" class="mobile_nav closed"> <span class="mobile_menu_bar"></span> </a>
+          </div>
+         </div>
+         <div class="et_pb_menu__search-container et_pb_menu__search-container--disabled">
+          <div class="et_pb_menu__search">
+           <form role="search" method="get" class="et_pb_menu__search-form" action="https://dombulgakova.ru/"><input type="search" class="et_pb_menu__search-input" placeholder="Поиск ..." name="s" title="Поиск:">
+           </form> <button type="button" class="et_pb_menu__icon et_pb_menu__close-search-button"></button>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div> <!-- .et_pb_section -->
+     </div><!-- .et_builder_inner_content -->
+    </header><!-- .et-l -->
+    <div id="et-main-area">
+     <div id="main-content">
+      <article id="post-4510" class="post-4510 page type-page siteStatus-publish hentry">
+       <div class="entry-content">
+        <div class="et-l et-l--post">
+         <div class="et_builder_inner_content et_pb_gutters3">
+          <div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+           <div class="et_pb_row et_pb_row_0">
+            <div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+             <div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+              <div class="et_pb_text_inner">
+               <h1 style="text-align: center;"><span style="font-weight: 400;">Ночная автобусная экскурсия "Дьявол в Москве"</span></h1>
+              </div>
+             </div> <!-- .et_pb_text -->
+            </div> <!-- .et_pb_column -->
+           </div> <!-- .et_pb_row -->
+          </div> <!-- .et_pb_section -->
+          <div class="et_pb_section et_pb_section_1 et_section_regular">
+           <div class="et_pb_row et_pb_row_1">
+            <div class="et_pb_column et_pb_column_1_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+             <div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+              <div class="et_pb_blurb_content">
+               <div class="et_pb_blurb_container">
+                <div class="et_pb_blurb_description">
+                 <p style="text-align: center;"><strong>Тип экскурсии</strong></p>
+                 <p style="text-align: center;">Автобусная</p>
+                </div>
+               </div>
+              </div> <!-- .et_pb_blurb_content -->
+             </div> <!-- .et_pb_blurb -->
+            </div> <!-- .et_pb_column -->
+            <div class="et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+             <div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+              <div class="et_pb_blurb_content">
+               <div class="et_pb_blurb_container">
+                <div class="et_pb_blurb_description">
+                 <p style="text-align: center;"><strong>Стоимость</strong></p>
+                 <p style="text-align: center;">1050/850</p>
+                </div>
+               </div>
+              </div> <!-- .et_pb_blurb_content -->
+             </div> <!-- .et_pb_blurb -->
+            </div> <!-- .et_pb_column -->
+            <div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+             <div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+              <div class="et_pb_blurb_content">
+               <div class="et_pb_blurb_container">
+                <div class="et_pb_blurb_description">
+                 <p style="text-align: center;"><strong>Продолжительность</strong></p>
+                 <p style="text-align: center;">5 ч</p>
+                </div>
+               </div>
+              </div> <!-- .et_pb_blurb_content -->
+             </div> <!-- .et_pb_blurb -->
+            </div> <!-- .et_pb_column -->
+            <div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+             <div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+              <div class="et_pb_blurb_content">
+               <div class="et_pb_blurb_container">
+                <div class="et_pb_blurb_description">
+                 <p style="text-align: center;"><strong>Возраст</strong></p>
+                 <p style="text-align: center;">14+</p>
+                </div>
+               </div>
+              </div> <!-- .et_pb_blurb_content -->
+             </div> <!-- .et_pb_blurb -->
+            </div> <!-- .et_pb_column -->
+           </div> <!-- .et_pb_row -->
+           <div class="et_pb_with_border et_pb_row et_pb_row_2">
+            <div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+             <div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+              <div class="et_pb_text_inner">
+               <p data-tadv-p="keep"><span style="color: #e02b20;"><em><strong>Экскурсия временно не проводится.</strong></em> </span></p>
+               <p>&nbsp;</p>
+               <p>Тема дьяволиады – одна из основных в творчестве Булгакова. Внимательный исследователь природы зла, он видит его в явлениях обыденной жизни: в абсурде бюрократической машины, в гордых попытках создания «нового человека», в мелком подличанье граждан с Садовой…</p>
+               <p>Сюжет главного закатного романа писателя — «Мастер и Маргарита» — претерпел немало изменений, прежде чем вылился в законченное произведение; и его Булгаков изначально задумывал как роман о дьяволе, а о любовной линии не было и речи!</p>
+               <p>Какая же трансформация произошла с романом за двенадцать лет создания? Какие герои появились, а какие исчезли? И зачем Булгакову нужен был Воланд?</p>
+               <p>На мистической экскурсии "Дьявол в Москве" мы узнаем, кто&nbsp;из писателей-современников Булгакова обращался к мистической теме; увидим Дом Нирнзее, где разворачивается финал «Дьяволиады», лабораторию профессора Персикова из «Роковых яиц»,&nbsp;место, где хранились рукописи чернокнижника Герберта,&nbsp;«Калабухов дом», где жил доктор Преображенский из «Собачьего сердца» и&nbsp;место, в котором на самом деле проходил бал сатаны в Москве.</p>
+               <p data-tadv-p="keep"><em><strong>Рассадка в автобусе свободная.</strong></em></p>
+               <p class="p2"></p>
+              </div>
+             </div> <!-- .et_pb_text -->
+            </div> <!-- .et_pb_column -->
+           </div> <!-- .et_pb_row -->
+           <div class="et_pb_with_border et_pb_row et_pb_row_3 two-columns">
+            <div class="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+             <div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module "><a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="https://dombulgakova.ru/excursii/">ЭКСКУРСИИ</a>
+             </div>
+            </div> <!-- .et_pb_column -->
+            <div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+             <div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module "><a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://dombulgakova.ru/?shows_id=3866" target="_blank">КУПИТЬ БИЛЕТ</a>
+             </div>
+            </div> <!-- .et_pb_column -->
+           </div> <!-- .et_pb_row -->
+          </div> <!-- .et_pb_section -->
+         </div><!-- .et_builder_inner_content -->
+        </div><!-- .et-l -->
+       </div> <!-- .entry-content -->
+      </article> <!-- .et_pb_post -->
+     </div> <!-- #main-content -->
+     <footer class="et-l et-l--footer">
+      <div class="et_builder_inner_content et_pb_gutters3">
+       <div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
+        <div class="et_pb_row et_pb_row_0_tb_footer">
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+         </div> <!-- .et_pb_column -->
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+          <ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+           <li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_0_tb_footer"><a href="https://vk.com/bulgakov_house" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+           <li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_1_tb_footer"><a href="http://wa.me/79037680204" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+           <li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social- et_pb_social_media_follow_network_2_tb_footer"><a href="https://t.me/theatre_bulgakova" class="icon et_pb_with_border" title="Следуйте на " target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Подписаться</span></a></li>
+          </ul> <!-- .et_pb_counters -->
+          <div class="et_pb_module et_pb_text et_pb_text_0_tb_footer et_clickable  et_pb_text_align_center et_pb_bg_layout_light">
+           <div class="et_pb_text_inner">
+            Старая версия сайта↗
+           </div>
+          </div> <!-- .et_pb_text -->
+          <div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+           <div class="et_pb_text_inner">
+            <p style="text-align: center;"><span>Все материалы данного сайта, включая программную часть, охраняются в соответствии с законодательством РФ об авторских и смежных правах. Любое использование материалов сайта&nbsp;</span><a href="https://dombulgakova.ru/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://dombulgakova.ru&amp;source=gmail&amp;ust=1580296517917000&amp;usg=AFQjCNFs-0gFQFFe5LcIgu-dipn-0n-JdQ" rel="noopener noreferrer">https://dombulgakova.ru</a><span>&nbsp;без письменного разрешения редакции запрещается, и является незаконным.</span></p>
+           </div>
+          </div> <!-- .et_pb_text -->
+         </div> <!-- .et_pb_column -->
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+         </div> <!-- .et_pb_column -->
+        </div> <!-- .et_pb_row -->
+       </div> <!-- .et_pb_section -->
+      </div><!-- .et_builder_inner_content -->
+     </footer><!-- .et-l -->
+    </div> <!-- #et-main-area -->
+   </div><!-- #et-boc -->
+  </div> <!-- #page-container -->
+  <script type="text/javascript">
+jQuery("a[href*='iframe']").addClass("fancybox-iframe");
+</script>
+  <div id="ssb-container" class="ssb-btns-right ssb-anim-slide">
+   <ul class="ssb-light-hover">
+    <li id="ssb-btn-2"><p><a href="#top"><span class="fas fa-angle-up"></span> Наверх</a></p></li>
+    <li id="ssb-btn-0"><p><a href="https://dombulgakova.ru/kalendar/"><span class="far fa-calendar-alt"></span> Календарь</a></p></li>
+    <li id="ssb-btn-1"><p><a href="tel:+7%20495%20970%200619" target="_blank"><span class="fas fa-phone"></span> Позвонить</a></p></li>
+    <li id="ssb-btn-3"><p><a href="http://wa.me/79037680204" target="_blank"><span class="fab fa-whatsapp"></span> Whatsapp</a></p></li>
+   </ul>
+  </div>
+  <script type="text/javascript">
+var et_link_options_data = [{"class":"et_pb_text_0_tb_footer","url":"http:\/\/old.dombulgakova.ru\/","target":"_blank"}];
+</script>
+  <div id="xt_woofc">
+   <div class="xt_woofc woocommerce xt_woofc-animation-morph xt_woofc-dimensions-pixels xt_woofc-pos-bottom-right xt_woofc-tablet-pos-bottom-right xt_woofc-mobile-pos-bottom-right xt_woofc-counter-pos-top-left xt_woofc-counter-tablet-pos-top-left xt_woofc-counter-mobile-pos-top-left xt_woofc-show-on-all xt_woofc-show-thumbs xt_woofc-squared-thumbnail xt_woofc-empty" data-ajax-init="1" data-animation="morph" data-express-checkout="" data-position="bottom-right" data-tablet-position="bottom-right" data-mobile-position="bottom-right" data-trigger-event="vclick" data-hoverdelay="200" data-flytocart="" data-flyduration="650" data-shaketrigger="vertical" data-opencart-onadd="" data-loadingtimeout="100">
+    <div class="xt_woofc-inner">
+     <div class="xt_woofc-wrapper">
+      <div class="xt_woofc-header"><span class="xt_woofc-title"> Корзина </span> <span class="xt_woofc-notice xt_woofc-notice-na"></span>
+      </div>
+      <div class="xt_woofc-body">
+       <div class="xt_woofc-body-header"></div>
+       <div class="xt_woofc-list-wrap">
+        <ul class="xt_woofc-list">
+         <li class="xt_woofc-no-product">No products in the cart.</li>
+        </ul>
+       </div>
+       <div class="xt_woofc-body-footer"></div>
+      </div> <!-- .xt_woofc-body -->
+      <div class="xt_woofc-footer"><a href="https://dombulgakova.ru/checkout/" data-text="Подтвердить заказ" data-processing-text="Please Wait..." class="xt_woofc-checkout xt_woofc-btn"> <em> <span class="xt_woofc-footer-label">Подтвердить заказ</span> <span class="xt_woofc-dash">-</span> <span class="amount">0.00₽</span>
+         <svg class="xt_woofc-checkout-arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewbox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+          <line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3" y1="12" x2="21" y2="12" /><polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15,6 21,12 15,18 " />
+         </svg> </em> </a> <a href="#" class="xt_woofc-trigger xt_woofc-icontype-image"> <span class="xt_woofc-trigger-cart-icon"></span>
+        <ul class="xt_woofc-count"><!-- cart items count -->
+         <li>0</li>
+         <li>1</li>
+        </ul> <!-- .count --> <span class="xt_woofc-trigger-close-icon"></span> </a>
+      </div>
+      <div class="xt_woofc-spinner-wrap">
+       <div class="xt_woofc-spinner-inner">
+        <div class="xt_woofc-spinner xt_woofc-spinner-three-bounce">
+         <div class="xt_woofc-spinner-child xt_woofc-spinner-bounce1"></div>
+         <div class="xt_woofc-spinner-child xt_woofc-spinner-bounce2"></div>
+         <div class="xt_woofc-spinner-child xt_woofc-spinner-bounce3"></div>
+        </div>
+       </div>
+      </div>
+     </div> <!-- .xt_woofc-wrapper -->
+    </div> <!-- .xt_woofc-inner -->
+   </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+var c = document.body.className;
+c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+document.body.className = c;
+})()
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" id="jquery-ui-core-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4" id="jquery-ui-datepicker-js"></script>
+  <script type="text/javascript" id="jquery-ui-datepicker-js-after">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","currentText":"\u0421\u0435\u0433\u043e\u0434\u043d\u044f","monthNames":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthNamesShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"nextText":"\u0414\u0430\u043b\u0435\u0435","prevText":"\u041d\u0430\u0437\u0430\u0434","dayNames":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"dayNamesShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dayNamesMin":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/isotope.pkgd.min.js?ver=6.1.0" id="mec-isotope-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/imagesload.js?ver=6.1.0" id="mec-imagesload-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=6.1.0" id="mec-typekit-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js?ver=6.1.0" id="featherlight-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js?ver=6.1.0" id="mec-select2-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=6.1.0" id="mec-tooltip-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=6.1.0" id="mec-lity-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=6.1.0" id="mec-colorbrightness-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=6.1.0" id="mec-owl-carousel-script-js"></script>
+  <script type="text/javascript" id="stickThis-js-extra">
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#sticky","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"99998","legacymode":"","dynamicmode":"","debugmode":"","pushup":"#stop","adminbar":"1"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1" id="stickThis-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4" id="jquery-effects-core-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4" id="jquery-effects-shake-js"></script>
+  <script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.9.5" id="woocommerce-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.3" id="js-divi-area-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.edinoepole.ru/api/v1/script.js?ver=4.6.5" id="divi-custom-edinoepole-dombulgakova-js"></script>
+  <script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449.","next":"\u0421\u043b\u0435\u0434."};
+var et_pb_custom = {"ajaxurl":"https:\/\/dombulgakova.ru\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/dombulgakova.ru\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/dombulgakova.ru\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"e2f6ff400d","subscription_failed":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043f\u043e\u043b\u044f \u043d\u0438\u0436\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u0431\u0435\u0434\u0438\u0442\u044c\u0441\u044f, \u0447\u0442\u043e \u0432\u044b \u0432\u0432\u0435\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e.","et_ab_log_nonce":"bf2b314a47","fill_message":"\ufeff\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u043e\u043b\u044f:","contact_error_message":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0438\u0441\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043e\u0448\u0438\u0431\u043a\u0438:","invalid":"\u041d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b","captcha":"\u041a\u0430\u043f\u0447\u0438","prev":"\u041f\u0440\u0435\u0434","previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435","next":"\u0414\u0430\u043b\u0435\u0435","wrong_captcha":"\u0412\u044b \u0432\u0432\u0435\u043b\u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432 \u043a\u0430\u043f\u0447\u0435.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"4510","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.5" id="divi-custom-script-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/modern-events-calendar-lite/app/addons/divi/scripts/frontend-bundle.min.js?ver=1.0.0" id="divi-frontend-bundle-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woo-floating-cart-lite/xt-framework/assets/js/jquery.touch-min.js?ver=1.6.4" id="xt-jquery-touch-js"></script>
+  <script type="text/javascript" id="xt-jquery-touch-js-after">
+window.XT = (typeof window.XT !== "undefined") ? window.XT : {};
+XT.isTouchDevice = function () {
+return ("ontouchstart" in document.documentElement);
+};
+if (XT.isTouchDevice()) {
+jQuery("html").addClass("xtfw-touchevents");
+}else{        
+jQuery("html").addClass("xtfw-no-touchevents");
+}
+</script>
+  <script type="text/javascript" id="xt-woo-floating-cart-js-extra">
+/* <![CDATA[ */
+var XT_WOOFC = {"customizerConfigId":"xt_woofc","wc_ajax_url":"https:\/\/dombulgakova.ru\/?wc-ajax=%%endpoint%%","layouts":{"XS":300,"S":480,"M":782,"L":1024},"can_use_premium_code":"","can_checkout":"1","body_lock_scroll":"","sp_slider_enabled":"","sp_slider_arrow":"xt_wooqvicon-arrows-18","cart_autoheight":"","cart_menu_enabled":"","cart_menu_click_action":"toggle","cart_shortcode_enabled":"","cart_shortcode_click_action":"toggle","trigger_selectors":[],"lang":{"wait":"Please wait","loading":"Loading","min_qty_required":"Min quantity required","max_stock_reached":"Stock limit reached","restoring":"Restoring product...","coupons":"Coupons","title":"\u041a\u043e\u0440\u0437\u0438\u043d\u0430\n"}};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/woo-floating-cart-lite/public/assets/js/frontend-min.js?ver=1612106066" id="xt-woo-floating-cart-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24" id="jquery-fancybox-js"></script>
+  <script type="text/javascript" id="jquery-fancybox-js-after">
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* iFrame */
+jQuery('a.fancybox-iframe,area.fancybox-iframe,li.fancybox-iframe a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':'80%','height':'90%','titleShow':false,'titlePosition':'float','titleFromAlt':true,'allowfullscreen':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.5" id="et-core-common-js"></script>
+  <script type="text/javascript" src="https://dombulgakova.ru/wp-includes/js/wp-embed.min.js?ver=5.5.11" id="wp-embed-js"></script>
+  <style id="et-builder-module-design-tb-3466-tb-3615-4510-cached-inline-styles">@media only screen and (max-width:479px){.two-columns .et_pb_column{width:50%!important}}.et_pb_section_0_tb_header.et_pb_section{padding-top:15px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_row_0_tb_header.et_pb_row{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-bottom:0px!important;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px}.et_pb_row_0_tb_header{display:flex}.et_pb_button_2_tb_header_wrapper .et_pb_button_2_tb_header,.et_pb_button_2_tb_header_wrapper .et_pb_button_2_tb_header:hover{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:10px!important}.et_pb_button_0_tb_header_wrapper .et_pb_button_0_tb_header,.et_pb_button_0_tb_header_wrapper .et_pb_button_0_tb_header:hover{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:10px!important}.et_pb_button_1_tb_header_wrapper .et_pb_button_1_tb_header,.et_pb_button_1_tb_header_wrapper .et_pb_button_1_tb_header:hover{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:10px!important}.et_pb_button_0_tb_header_wrapper{margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;position:relative;top:-34px;bottom:auto;left:-165px;right:auto}body #page-container .et_pb_section .et_pb_button_1_tb_header{color:#523b1d!important;border-width:0px!important;border-color:rgba(0,0,0,0);border-radius:0px;font-size:14px;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_2_tb_header{color:#523b1d!important;border-width:0px!important;border-color:rgba(0,0,0,0);border-radius:0px;font-size:14px;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_0_tb_header{color:#523b1d!important;border-width:0px!important;border-color:rgba(0,0,0,0);border-radius:0px;font-size:14px;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_0_tb_header:hover{color:#d7b56d!important;background-image:initial;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_2_tb_header:hover{color:#d7b56d!important;background-image:initial;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_1_tb_header:hover{color:#d7b56d!important;background-image:initial;background-color:rgba(0,0,0,0)}body #page-container .et_pb_section .et_pb_button_0_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_2_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_1_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_2_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto}body #page-container .et_pb_section .et_pb_button_1_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto}body #page-container .et_pb_section .et_pb_button_0_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto}.et_pb_button_2_tb_header{transition:color 300ms ease 0ms,background-color 300ms ease 0ms}.et_pb_button_1_tb_header{transition:color 300ms ease 0ms,background-color 300ms ease 0ms}.et_pb_button_0_tb_header{transition:color 300ms ease 0ms,background-color 300ms ease 0ms}.et_pb_button_1_tb_header,.et_pb_button_1_tb_header:after{transition:all 300ms ease 0ms}.et_pb_button_2_tb_header,.et_pb_button_2_tb_header:after{transition:all 300ms ease 0ms}.et_pb_button_0_tb_header,.et_pb_button_0_tb_header:after{transition:all 300ms ease 0ms}.et_pb_button_2_tb_header_wrapper{margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;position:relative;top:-32px;bottom:auto;left:-165px;right:auto}.et_pb_button_1_tb_header_wrapper{margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;position:relative;top:-32px;bottom:auto;left:-165px;right:auto}.et_pb_image_0_tb_header .et_pb_image_wrap img{min-height:auto}.et_pb_image_0_tb_header{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;z-index:0;position:relative;top:40px;bottom:auto;left:0px;right:auto;margin-bottom:30px;text-align:center}.et_pb_image_0_tb_header:after{content:'Музей театр';position:absolute;top:calc(100% + 20px);left:50%;transform:translateX(-50%);text-transform:uppercase;font-size:20px;width:100%;min-width:150px;color:#523b1d}.et_pb_text_0_tb_header.et_pb_text{color:#523b1d!important}.et_pb_text_0_tb_header{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;position:relative;top:-25px;bottom:auto;right:-155px;left:auto}ul.et_pb_social_media_follow_0_tb_header{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}.et_pb_social_media_follow_0_tb_header{z-index:5;position:relative;top:-20px;bottom:auto;right:-155px;left:auto}.et_pb_social_media_follow_0_tb_header li a.icon:before{font-size:14px;line-height:28px;height:28px;width:28px}.et_pb_social_media_follow_0_tb_header li a.icon{height:28px;width:28px}.et_pb_section_1_tb_header{border-color:#523b1d;height:auto;min-height:auto;max-height:none;margin-left:auto!important;margin-right:auto!important;z-index:10;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3);z-index:2;position:static!important;top:0px;right:auto;bottom:auto;left:0px}.et_pb_section_2_tb_header{border-color:#523b1d;height:auto;min-height:auto;max-height:none;margin-left:auto!important;margin-right:auto!important;z-index:10;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3);z-index:2;position:static!important;top:0px;right:auto;bottom:auto;left:0px}.et_pb_section_2_tb_header.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}.et_pb_section_1_tb_header.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu ul li a{font-weight:600;color:#523b1d!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu ul li a{font-weight:600;color:#523b1d!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu{background-color:#ffffff;border-top-color:#523b1d;border-bottom-color:#523b1d;height:auto;min-height:20px;padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_fullwidth_menu_0_tb_header{max-width:100%}.et_pb_fullwidth_menu_1_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo,.et_pb_fullwidth_menu_1_tb_header .et_pb_menu__logo-slot{max-width:100%}.et_pb_fullwidth_menu_0_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__logo-slot{max-width:100%}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu ul li.current-menu-item a{color:#d7b56d!important}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu ul li.current-menu-item a{color:#d7b56d!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .nav li ul{background-color:#ffffff!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu .nav li ul{background-color:#ffffff!important}.et_pb_fullwidth_menu_1_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_fullwidth_menu_1_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{max-height:200px}.et_pb_fullwidth_menu_0_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{max-height:200px}.et_pb_fullwidth_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_fullwidth_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button{color:#7EBEC5}.et_pb_fullwidth_menu_1_tb_header .mobile_nav .mobile_menu_bar:before{color:#7EBEC5}.et_pb_fullwidth_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button{color:#7EBEC5}.et_pb_fullwidth_menu_0_tb_header .mobile_nav .mobile_menu_bar:before{color:#7EBEC5}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu{background-color:#ffffff;border-top-color:#523b1d;border-bottom-color:#523b1d;height:80px;min-height:20px;max-height:100px;padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_fullwidth_menu_1_tb_header{width:100%;max-width:100%}.et_pb_column_0_tb_header{z-index:0!important;position:relative}.et_pb_social_media_follow_network_0_tb_header a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2020/01/vk_logo_1.png)!important}.et_pb_social_media_follow_network_1_tb_header a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2020/01/whatsapp_logo_1.png)!important}.et_pb_social_media_follow_network_2_tb_header a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2022/03/tg_logo_1.png)!important}.et_pb_fullwidth_menu_1_tb_header.et_pb_module{margin-left:auto!important;margin-right:0px!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_module{margin-left:auto!important;margin-right:0px!important}@media only screen and (min-width:981px){.et_pb_section_2_tb_header{display:none!important}}@media only screen and (max-width:980px){body #page-container .et_pb_section .et_pb_button_0_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_1_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_2_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_0_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_1_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_2_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_0_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_1_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_2_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}.et_pb_image_0_tb_header .et_pb_image_wrap img{min-height:auto}.et_pb_image_0_tb_header{margin-left:auto;margin-right:auto}.et_pb_section_1_tb_header{height:auto;min-height:auto;max-height:none}.et_pb_section_2_tb_header{height:auto;min-height:auto;max-height:none}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu{border-top-color:#523b1d;border-bottom-color:#523b1d;height:100px;min-height:auto;padding-top:10px}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu{border-top-color:#523b1d;border-bottom-color:#523b1d;height:100px;min-height:auto;padding-top:10px}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_section_1_tb_header{display:none!important}}@media only screen and (max-width:767px){body #page-container .et_pb_section .et_pb_button_0_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_1_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_2_tb_header:after{line-height:inherit;font-size:inherit!important;margin-left:-1em;left:auto;display:inline-block;opacity:0;content:attr(data-icon);font-family:"ETmodules"!important}body #page-container .et_pb_section .et_pb_button_0_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_1_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_2_tb_header:before{display:none}body #page-container .et_pb_section .et_pb_button_0_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_1_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}body #page-container .et_pb_section .et_pb_button_2_tb_header:hover:after{margin-left:.3em;left:auto;margin-left:.3em;opacity:1}.et_pb_image_0_tb_header .et_pb_image_wrap img{min-height:auto}.et_pb_image_0_tb_header{margin-top:-18px!important;margin-left:auto;margin-right:auto}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu{border-top-color:#523b1d;border-bottom-color:#523b1d;height:100px;min-height:50px;padding-top:10px;padding-bottom:0px;margin-bottom:0px}.et_pb_fullwidth_menu_1_tb_header.et_pb_fullwidth_menu{border-top-color:#523b1d;border-bottom-color:#523b1d;height:100px;min-height:50px;padding-top:10px;padding-bottom:0px;margin-top:-20px;margin-bottom:0px}.et_pb_section_1_tb_header{height:100px;min-height:100px;max-height:100px;width:100%;max-width:100%;margin-left:auto!important;margin-right:auto!important;display:none!important}.et_pb_section_2_tb_header{height:100px;min-height:100px;max-height:100px;width:100%;max-width:100%;margin-left:auto!important;margin-right:auto!important}}@font-face{font-family:"Artist Modern";font-display:swap;src:url("https://dombulgakova.ru/wp-content/uploads/et-fonts/Artist-Modern.ttf") format("truetype")}.et_pb_section_0_tb_footer.et_pb_section{background-color:#e5e5e5!important}ul.et_pb_social_media_follow_0_tb_footer{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important}.et_pb_social_media_follow_0_tb_footer{z-index:5;position:relative;top:0px;bottom:auto;right:0px;left:auto}.et_pb_social_media_follow_0_tb_footer li a.icon:before{font-size:18px;line-height:36px;height:36px;width:36px}.et_pb_social_media_follow_0_tb_footer li a.icon{height:36px;width:36px}.et_pb_text_0_tb_footer{font-size:13px;margin-top:0px!important;margin-bottom:0px!important}.et_pb_text_1_tb_footer{font-size:13px}.et_pb_social_media_follow_network_0_tb_footer a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2020/01/vk_logo_1.png)!important}.et_pb_social_media_follow_network_1_tb_footer a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2020/01/whatsapp_logo_1.png)!important}.et_pb_social_media_follow_network_2_tb_footer a.icon{background-size:contain;background-image:url(https://dombulgakova.ru/wp-content/uploads/2022/03/tg_logo_1.png)!important}.et_overlay{display:none}.mfp-title{display:none}.et_pb_gallery_grid .et_pb_gallery_item img{transform:scale(1.03);transition:transform 0.5s,opacity 0.5s}.et_pb_gallery_grid .et_pb_gallery_item img:hover{transform:scale(1.15);opacity:1}.et_pb_gallery_grid .et_pb_gallery_item{padding:5px;width:20%!important;clear:right!important}@media only screen and (max-width:479px){.et_pb_column .et_pb_grid_item:nth-child(n){width:33%!important}.et_pb_gallery_grid .et_pb_gallery_item{width:20%!important;clear:right!important}.et_pb_gallery_grid .et_pb_gallery_item{width:20%!important;clear:right!important}}@font-face{font-family:"Artist Modern";font-display:swap;src:url("https://dombulgakova.ru/wp-content/uploads/et-fonts/Artist-Modern.ttf") format("truetype")}.et_pb_section_0.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-bottom:10px;background-color:#513b1d!important}.et_pb_row_0.et_pb_row{padding-top:30px!important;padding-right:0px!important;padding-bottom:30px!important;padding-left:0px!important;padding-top:30px;padding-right:0px;padding-bottom:30px;padding-left:0px}.et_pb_text_0 h1{font-family:'Artist Modern',Helvetica,Arial,Lucida,sans-serif;font-size:38px;color:#ffffff!important}.et_pb_text_0 h3{font-family:'Artist Modern',Helvetica,Arial,Lucida,sans-serif;font-size:25px;color:#ffffff!important}.et_pb_text_0{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important}.et_pb_section_1.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:-10px;margin-bottom:0px}.et_pb_row_1.et_pb_row{padding-bottom:25px!important;padding-bottom:25px}.et_pb_blurb_3.et_pb_blurb{font-size:15px;padding-top:0px!important;padding-bottom:15px!important}.et_pb_blurb_0.et_pb_blurb{font-size:15px;padding-top:0px!important;padding-bottom:15px!important}.et_pb_blurb_1.et_pb_blurb{font-size:15px;padding-top:0px!important;padding-bottom:15px!important}.et_pb_blurb_2.et_pb_blurb{font-size:15px;padding-top:0px!important;padding-bottom:15px!important}.et_pb_blurb_0{box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_blurb_1{box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_blurb_3{box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_blurb_2{box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_blurb_0 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_2 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_1 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_3 .et-pb-icon{color:#7EBEC5}.et_pb_row_2{border-bottom-color:#513b1d}.et_pb_row_2.et_pb_row{padding-top:10px!important;padding-right:0px!important;padding-bottom:25px!important;padding-left:0px!important;padding-top:10px;padding-right:0px;padding-bottom:25px;padding-left:0px}.et_pb_text_1{font-weight:300}.et_pb_text_1 h2{font-weight:600}.et_pb_row_3{border-top-width:3px;border-bottom-width:3px;border-top-color:#513b1d;border-bottom-color:#513b1d}.et_pb_row_3.et_pb_row{padding-top:25px!important;padding-bottom:25px!important;padding-top:25px;padding-bottom:25px}.et_pb_button_0_wrapper .et_pb_button_0,.et_pb_button_0_wrapper .et_pb_button_0:hover{padding-right:27px!important;padding-left:27px!important}.et_pb_button_0_wrapper{margin-bottom:-30px!important}body #page-container .et_pb_section .et_pb_button_1{color:#513b1d!important;border-color:#513b1d;font-size:15px}body #page-container .et_pb_section .et_pb_button_0{color:#513b1d!important;border-color:#513b1d;font-size:15px}body #page-container .et_pb_section .et_pb_button_0:hover{color:#ffffff!important;background-image:initial;background-color:#513b1d}body #page-container .et_pb_section .et_pb_button_1:hover{color:#ffffff!important;background-image:initial;background-color:#513b1d}body #page-container .et_pb_section .et_pb_button_1:before,body #page-container .et_pb_section .et_pb_button_1:after{display:none!important}body #page-container .et_pb_section .et_pb_button_0:before,body #page-container .et_pb_section .et_pb_button_0:after{display:none!important}.et_pb_button_0{box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3);transition:color 300ms ease 0ms,background-color 300ms ease 0ms}.et_pb_button_1{box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3);transition:color 300ms ease 0ms,background-color 300ms ease 0ms}.et_pb_button_0,.et_pb_button_0:after{transition:all 300ms ease 0ms}.et_pb_button_1,.et_pb_button_1:after{transition:all 300ms ease 0ms}.et_pb_button_1_wrapper .et_pb_button_1,.et_pb_button_1_wrapper .et_pb_button_1:hover{padding-top:5px!important;padding-bottom:5px!important}body #page-container .et_pb_section .et_pb_button_1,body #page-container .et_pb_section .et_pb_button_1:hover{padding-right:1em!important;padding-left:1em!important}@media only screen and (max-width:980px){.et_pb_section_0.et_pb_section{margin-top:0px;margin-bottom:0px}.et_pb_text_0 h3{font-size:40px}.et_pb_row_2{border-bottom-color:#513b1d}.et_pb_row_3{border-top-width:3px;border-bottom-width:3px;border-top-color:#513b1d;border-bottom-color:#513b1d}}@media only screen and (max-width:767px){.et_pb_section_0.et_pb_section{margin-top:0px;margin-bottom:-60px}.et_pb_text_0 h1{font-size:30px}.et_pb_text_0 h3{font-size:30px}.et_pb_text_0{margin-top:-15px!important;margin-bottom:35px!important}.et_pb_section_1.et_pb_section{margin-top:-10px}.et_pb_blurb_0.et_pb_blurb{font-size:16px}.et_pb_blurb_1.et_pb_blurb{font-size:16px}.et_pb_blurb_2.et_pb_blurb{font-size:16px}.et_pb_blurb_3.et_pb_blurb{font-size:16px}.et_pb_row_2{border-bottom-color:#513b1d}.et_pb_text_1{font-family:'Verdana',Helvetica,Arial,Lucida,sans-serif;font-weight:300}.et_pb_row_3{border-top-width:3px;border-bottom-width:3px;border-top-color:#513b1d;border-bottom-color:#513b1d}.et_pb_row_3.et_pb_row{padding-top:15px!important;padding-bottom:15px!important;padding-top:15px!important;padding-bottom:15px!important}.et_pb_button_0_wrapper .et_pb_button_0,.et_pb_button_0_wrapper .et_pb_button_0:hover{padding-top:5px!important;padding-right:27px!important;padding-bottom:5px!important;padding-left:27px!important}}</style>
+ </body>
+</html>
