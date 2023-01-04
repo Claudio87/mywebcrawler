@@ -9,7 +9,7 @@ Claudio87/mywebcrawler
 ## About the project
 
 Проект представляет собой мини поисковый движок. Пользователь сам определяет сайты 
-по которым будет осуществлятся индексация и поиск
+по которым будет осуществлятся индексация и поиск.
 
 #### Back
 
@@ -27,5 +27,6 @@ Claudio87/mywebcrawler
 ## Project setup
 
  - mvn clean package
+ - в корневой папке проекта лежат файлы настроек, которые нужны скопировать в папку с запускаемым jar файлом. application.yaml (определяются сайты по которым осуществляется индексация и поиск), applicationParserSettings.yaml (определяется глубина поиска)
  - java -jar mywebcrawler-web-1.0-SHAPSHOT.jar
  - http://localhost:8080/
