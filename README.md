@@ -3,6 +3,8 @@ Claudio87/mywebcrawler
 
 ## How to use
 
+На вкладке **Dashboard** можно увидеть список всех сайтов, а также статистику по ним.
+На вкладке **Management** стартуется индексация и на вкладке **Search** осуществляется поиск.
 <p align="center">
 <img src="https://media.giphy.com/media/kECpaOfydBanXOC1C8/giphy.gif"></p>
 
