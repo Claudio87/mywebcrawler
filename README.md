@@ -18,7 +18,7 @@ Claudio87/mywebcrawler
 
  - Java 17
  - maven
- - MySql
+ - MySql 8.0.31
  - REST api Spring Boot v. 2.7.5
  - Лемматизатор (разбор текста) org.apache.lucene.morphology
  
