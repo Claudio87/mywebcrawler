@@ -1,8 +1,5 @@
 package mywebcrawler_core.interfaces;
 
-import org.springframework.stereotype.Component;
-
-
 public interface IPageSample {
     int getCode();
     void setStatusCode(int code);

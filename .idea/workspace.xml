@@ -4,20 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b247ac7-a27c-4cd6-84cd-45052fe5e5f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_ObjectsAndClasses/Cat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_ExceptionsDebuggingAndTesting/SPBMetro/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10_SQLAndHibernate/Hib/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_SQLAndHibernate/Hib/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multithreading/Deadlock/Deadlock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Deadlock/Deadlock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multithreading/Deadlock/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Deadlock/src/Loader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multithreading/ForkJoinPoolExp/src/main/java/MySiteMapBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multithreading/ImageResizer/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Multithreading/Transactions/src/main/java/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/Transactions/src/main/java/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/BookLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/BookLibrary/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/model/SimpleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringBootWebDevelopment/ListToDo/src/main/java/main/model/SimpleTask.java" afterDir="false" />
+    <list default="true" id="2b247ac7-a27c-4cd6-84cd-45052fe5e5f1" name="Changes" comment="add config: application.yaml">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationParserSettings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationParserSettings.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/mywebcrawler-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/mywebcrawler-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/config/YAMLConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/config/YAMLConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/interfaces/IPageSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/interfaces/IPageSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Lemma.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Lemma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/model/Site.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/page_aggregator/LinkCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/page_aggregator/LinkCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/parser/PageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/parser/PageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/IndexRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/IndexRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/LemmaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/LemmaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/PageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/mywebcrawler_core/repositories/PageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/task_manager/MyWebCrawlerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/task_manager/MyWebCrawlerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/task_manager/WebCrawlerExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-core/src/main/java/task_manager/WebCrawlerExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-lemmatizator/mywebcrawler-lemmatizator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-lemmatizator/mywebcrawler-lemmatizator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/mywebcrawler-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/mywebcrawler-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/DefaultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/DefaultController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/config/SitesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/config/SitesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/services/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/services/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/services/StatisticsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler-web/src/main/java/mywebcrawler_web/services/StatisticsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebcrawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mywebcrawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +47,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
         <entry key="JPA Structure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
         <entry key="JPA Structure" value="false" />
       </map>
     </option>
@@ -58,6 +77,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -70,7 +90,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MyWebCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MyWebCrawler" type="Application" factoryName="Application" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyWebCrawler" />
       <module name="mywebcrawler-web" />
       <method v="2">
@@ -92,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672668182308</updated>
     </task>
+    <task id="LOCAL-00001" summary="add config: application.yaml">
+      <created>1672691381430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672691381430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +133,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add config: application.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add config: application.yaml" />
   </component>
 </project>

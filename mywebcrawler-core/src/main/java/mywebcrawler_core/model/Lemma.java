@@ -1,10 +1,5 @@
 package mywebcrawler_core.model;
 
-import org.hibernate.annotations.Cascade;
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
-import org.hibernate.annotations.Where;
-
 import javax.persistence.*;
 import java.util.List;
 

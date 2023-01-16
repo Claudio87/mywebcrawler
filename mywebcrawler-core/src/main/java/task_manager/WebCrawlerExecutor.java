@@ -6,6 +6,8 @@ import mywebcrawler_core.model.Lemma;
 import mywebcrawler_core.model.Page;
 import mywebcrawler_core.model.Site;
 import mywebcrawler_core.page_aggregator.PageAggregator;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
@@ -19,6 +21,7 @@ public class WebCrawlerExecutor {
     public Queue<IndexAggregator> indexTask = new LinkedList<>();
     private final List<PageAggregator> pageAggregatorList = new ArrayList<>();;
     private ExecutorService service;
+    private Logger logger = LoggerFactory.getLogger(WebCrawlerExecutor.class);
 
     private final PropertyChangeSupport support = new PropertyChangeSupport(this);
     public WebCrawlerExecutor(){
@@ -65,14 +68,14 @@ public class WebCrawlerExecutor {
         LemmaAggregator lemmaAggregator = new LemmaAggregator(siteID);
         lemmaAggregator.aggregate(pageIterator);
         lemmaTask.add(lemmaAggregator);
-        System.out.println("LEMMA AGR COMPL siteID: "+siteID);
+        logger.info("LEMMA AGR COMPL siteID: "+siteID);
         support.firePropertyChange(null,null, ExecutionStatus.LEMMA_AGGREGATION_COMPLETED);
     }
     public void startIndexAggregating(int siteID,Iterator<Lemma> lemmaIterator, Iterator<Page> pageIterator){
         IndexAggregator indexAggregator = new IndexAggregator(siteID);
         indexAggregator.aggregate(lemmaIterator, pageIterator);
         indexTask.add(indexAggregator);
-        System.out.println("INDEX AGR COMPL siteID: "+siteID);
+        logger.info("LEMMA AGR COMPL siteID: "+siteID);
         support.firePropertyChange(null,null, ExecutionStatus.INDEXING_COMPLETED);
     }
 
@@ -81,7 +84,7 @@ public class WebCrawlerExecutor {
             stopService();
         }
         support.firePropertyChange(null,null, ExecutionStatus.STOP_INDEXING);
-        System.out.println("Finish execution");
+        logger.info("Execution finished");
     }
 
     private void stopService(){

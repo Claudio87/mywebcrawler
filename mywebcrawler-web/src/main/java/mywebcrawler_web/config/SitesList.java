@@ -1,8 +1,8 @@
 package mywebcrawler_web.config;
 
 import mywebcrawler_core.model.Site;
-import mywebcrawler_core.repositories.SiteRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
@@ -16,6 +16,7 @@ import java.util.List;
 public class SitesList {
     private List<Site> sites;
     private PropertyChangeSupport support = new PropertyChangeSupport(this);
+    private static Logger logger = LoggerFactory.getLogger(SitesList.class);
 
     public List<Site> getSites() {
         return sites;
@@ -27,7 +28,7 @@ public class SitesList {
 
     public void addPropertyChangeListener(PropertyChangeListener pcl) {
         support.addPropertyChangeListener(pcl);
-        System.out.println("Listener added");
+        logger.info("Listener added");
     }
 
     public void removePropertyChangeListener(PropertyChangeListener pcl) {
@@ -41,7 +42,7 @@ public class SitesList {
         anotherSite.setUrl(url);
         anotherSite.setName(name);
         support.firePropertyChange("new site",null,anotherSite);
-        System.out.println("site added");
+        logger.info("site added");
         sites.add(anotherSite);
     }
 }

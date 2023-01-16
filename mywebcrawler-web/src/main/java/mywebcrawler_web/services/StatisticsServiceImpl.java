@@ -1,17 +1,16 @@
 package mywebcrawler_web.services;
 
+import mywebcrawler_core.model.Site;
 import mywebcrawler_core.repositories.LemmaRepository;
 import mywebcrawler_core.repositories.PageRepository;
 import mywebcrawler_core.repositories.SiteRepository;
 import mywebcrawler_web.config.SitesList;
-import mywebcrawler_core.model.Site;
 import mywebcrawler_web.statistics.DetailedStatisticsItem;
 import mywebcrawler_web.statistics.StatisticsData;
 import mywebcrawler_web.statistics.StatisticsResponse;
 import mywebcrawler_web.statistics.TotalStatistics;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;

@@ -4,7 +4,10 @@ package mywebcrawler_core.page_aggregator;
 import mywebcrawler_core.interfaces.IPageSample;
 import mywebcrawler_core.parser.PageParser;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Set;
 import java.util.concurrent.RecursiveAction;
 public class LinkCollector extends RecursiveAction {
 

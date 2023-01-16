@@ -1,13 +1,7 @@
 package mywebcrawler_core.model;
 
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
-
-import javax.persistence.*;
 import javax.persistence.Index;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "`page`",indexes = @Index(columnList = "path"))

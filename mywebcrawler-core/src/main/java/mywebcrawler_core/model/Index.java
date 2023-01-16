@@ -1,8 +1,5 @@
 package mywebcrawler_core.model;
 
-import mywebcrawler_core.repositories.SiteRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-
 import javax.persistence.*;
 
 @Entity

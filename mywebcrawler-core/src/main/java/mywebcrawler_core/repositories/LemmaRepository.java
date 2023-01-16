@@ -1,7 +1,6 @@
 package mywebcrawler_core.repositories;
 
 import mywebcrawler_core.model.Lemma;
-import mywebcrawler_core.model.Page;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

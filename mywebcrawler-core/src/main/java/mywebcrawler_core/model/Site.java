@@ -1,15 +1,10 @@
 package mywebcrawler_core.model;
 
 
-
 import mywebcrawler_core.Status;
-import org.hibernate.annotations.Cascade;
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
-import java.util.Set;
 
 @Entity
 @Table(name = "`site`")

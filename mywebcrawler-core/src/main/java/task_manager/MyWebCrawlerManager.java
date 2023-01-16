@@ -11,6 +11,7 @@ import mywebcrawler_core.repositories.IndexRepository;
 import mywebcrawler_core.repositories.LemmaRepository;
 import mywebcrawler_core.repositories.PageRepository;
 import mywebcrawler_core.repositories.SiteRepository;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Component;
@@ -179,12 +180,13 @@ public class MyWebCrawlerManager implements PropertyChangeListener {
 
         if(getManagerStatus().equals(ManagerStatus.NON_CONSISTENT_STOP)){
             updateSiteRepository(ALL_SITES_USER_STOP,Status.FAILED,"Индексация остановлена пользователем");
+            LoggerFactory.getLogger(MyWebCrawlerManager.class).info("Индексация остановлена пользователем");
         }
         try {
             while(!executor.terminationStatus()){
                 executor.terminateExecution();
                 TimeUnit.SECONDS.sleep(1);
-                System.err.println("Waiting for executor termination");
+                LoggerFactory.getLogger(MyWebCrawlerManager.class).error("Waiting for executor termination");
             }
             synchronized (scannerThread) {
                 setManagerStatus(ManagerStatus.CHILL);

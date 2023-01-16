@@ -1,5 +1,9 @@
-# example values
+#discip7d_s_engin
+#pas SearchEngine123456
+#user discip7d_s_engin
 
+
+# определяет частоту с которой встречается лемма в индексе
 frequencyRestriction: 100
 
 server:
@@ -26,10 +30,8 @@ indexing-settings:
       name: Арт галлерея
     - url: https://www.svetlovka.ru/
       name: Светловка
-
-
-#    - url: https://www.skillbox.ru
-#      name: Skillbox
-#    - url: https://www.playback.ru
-#      name: PlayBack.Ru
+    - url: https://volochek.life/
+      name: Вышний Волочёк
+    - url: https://ipfran.ru/
+      name: ИПФ РАН
 ---
