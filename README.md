@@ -7,6 +7,7 @@ Claudio87/mywebcrawler
 На вкладке **Management** стартуется индексация и на вкладке **Search** осуществляется поиск.
 <p align="center">
 <img src="https://media.giphy.com/media/kECpaOfydBanXOC1C8/giphy.gif"></p>
+Также можно потестировать приложение онлайн - http://mycraw.tech:8080/mywebcrawler_new
 
 ## About the project
 
@@ -17,7 +18,7 @@ Claudio87/mywebcrawler
 
  - Java 17
  - maven
- - MySql
+ - MySql 8.0.31
  - REST api Spring Boot v. 2.7.5
  - Лемматизатор (разбор текста) org.apache.lucene.morphology
  
